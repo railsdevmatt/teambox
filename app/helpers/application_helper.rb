@@ -191,16 +191,16 @@ module ApplicationHelper
   end
   
   def configure_this_organization
-    if Teambox.config.community && @community_role == :admin && @community_organization.description.blank? && params[:organization].nil?
-      message = if location_name != "appearance_organizations"
-        link_to("Click here", appearance_organization_path(@community_organization)) + " to configure your organization"
-      else
-        "Introduce some HTML code for your main site to configure your site"
-      end
-      %(<div style="background-color: rgb(255,255,220); border-bottom: 1px solid rgb(200,200,150); width: 100%; display: block; font-size: 12px; padding: 10px 0; text-align: center">
-        #{message}
-      </div>).html_safe
-    end
+    # if Teambox.config.community && @community_role == :admin && @community_organization.description.blank? && params[:organization].nil?
+    #   message = if location_name != "appearance_organizations"
+    #     link_to("Click here", appearance_organization_path(@community_organization)) + " to configure your organization"
+    #   else
+    #     "Introduce some HTML code for your main site to configure your site"
+    #   end
+    #   %(<div style="background-color: rgb(255,255,220); border-bottom: 1px solid rgb(200,200,150); width: 100%; display: block; font-size: 12px; padding: 10px 0; text-align: center">
+    #     #{message}
+    #   </div>).html_safe
+    # end
   end
   
   def locale_select_values

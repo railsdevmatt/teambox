@@ -2,7 +2,7 @@
 # Mark missing translations by adding ##### at the end of the line
 en:
   # if latest_announcement is less than 5 characters, it will not be displayed
-  latest_announcement_html: "<strong>New</strong>: Earn money by referring new users into Teambox. Log in and go into your affiliate area to make up a 15% of the income you generate!<br/><br/>Read <a href='http://blog.teambox.com'>our blog</a> for more news about Teambox."
+  latest_announcement_html: "<strong>New</strong>: Earn money by referring new users into Teambox. Log in and go into your affiliate area to make up a 15% of the income you generate!<br/><br/>Read <a href='http://blog.posnation.com'>our blog</a> for more news about Teambox."
   common:
     format_name: "%{first_name} %{last_name}"
     format_name_short: "%{first_name_first_character}. %{last_name}"
@@ -319,7 +319,7 @@ en:
           ======
         image: "![alt text](http://w3.org/img.jpg)"
         italic_text: "*italics* text"
-        link: "[Link something](http://teambox.com)"
+        link: "[Link something](http://posnation.com)"
         ordered_list: |
           1. ordered list
           2. leave empty lines!
@@ -335,7 +335,7 @@ en:
         header_html: "<h3 style=\"font-size:18px\">Header</h3>"
         image_html: "<img src=\"http://www.w3.org/Icons/valid-html401\">"
         italic_text_html: "<i>italics</i> text"
-        link_html: "<a href=\"http://www.teambox.com\">Link something</a>"
+        link_html: "<a href=\"http://www.posnation.com\">Link something</a>"
         ordered_list_html: |
           <li>ordered list</li>
           <li>leave empty lines!</li>
@@ -547,7 +547,7 @@ en:
       name_html: "Organization name"
       name_placeholder: Your organization
       permalink_html: Short organization code <em>No spaces allowed. Will be used for the web address.</em>
-      domain_html: "Domain <em>You can use your own domain for your organization, check the <a href='http://help.teambox.com/faqs/more-ways-to-access-teambox/custom-domain' title='How to use your own domain for your organization in Teambox'>documentation</a>.</em>"
+      domain_html: "Domain <em>You can use your own domain for your organization, check the <a href='http://help.posnation.com/faqs/more-ways-to-access-teambox/custom-domain' title='How to use your own domain for your organization in Teambox'>documentation</a>.</em>"
     appearance_fields:
       colours: Site colors
       logo_html: Logo <em>Ideally should be 134x36 pixels</em>
@@ -556,7 +556,7 @@ en:
       link_hover_colour: default link hover color
       text_colour: default text color
       header_bar_colour: header bar color
-      description_html: HTML to be displayed on the entrance page <a href="http://help.teambox.com/faqs/more-ways-to-access-teambox/customize-organizations">Learn how to use this</a>
+      description_html: HTML to be displayed on the entrance page <a href="http://help.posnation.com/faqs/more-ways-to-access-teambox/customize-organizations">Learn how to use this</a>
     index:
       about:
         title: About Organizations
