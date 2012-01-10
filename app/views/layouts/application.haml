@@ -14,6 +14,12 @@
     = organization_link_colour
     = sprockets_include_tag
     = yield :js_includes
+    = javascript_include_tag 'jquery', 'custom'
+    %script
+      -# this allows jquery to be called along with scriptaculous and YUI without any conflicts
+      -# the only difference is all jquery functions should be called with $j instead of $
+      -# e.g. $j('#div_id').stuff instead of $('#div_id').stuff
+      var $j = jQuery.noConflict();
     = javascript_tag do
       = yield :js_templates
   %body{ :class => "#{location_name} #{I18n.locale} #{Rails.env} controller_#{controller.controller_name}", :reload_url => reload_url}
@@ -24,7 +30,6 @@
     .shell
       #header
         = header
-      = configure_this_organization
       #container.container
         .wrapper
           - show_flash

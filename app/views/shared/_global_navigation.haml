@@ -6,6 +6,7 @@
   %ul.shop-nav
     / %li= link_to current_user.login, current_user
     %li.systems= link_to '', account_settings_path
+    %li.testimonials= configure_this_organization
   / - if current_user.invitations.pending_projects.count > 0
   /   %li= link_to_unless_current t('.project_invitations', :count => current_user.invitations.count),
   /     user_invitations_path(:user_id => current_user.id)
