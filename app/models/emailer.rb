@@ -45,7 +45,7 @@ class Emailer < ActionMailer::Base
 
     def from_address(recipient = "no-reply", name = "POS Nation Project Manager")
       domain = Teambox.config.smtp_settings[:domain]
-      address = "projects@posnation.com"
+      address = "#{recipient}@#{domain}"
 
       if name.blank? or Teambox.config.smtp_settings[:safe_from]
         address
