@@ -17,7 +17,7 @@ log/*.pid
 tmp
 public/avatars
 public/logos
-public/stylesheets
+public/jammit/*
 public/sprockets.js
 /uploads
 webrat-*
