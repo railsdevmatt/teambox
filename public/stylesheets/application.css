@@ -4275,18 +4275,16 @@ body {
 
 #navigation ul.shop-nav li {
     background-image: url("/images/spriteme4.png");
-    background-position: 111px -2506px;
+    background-position: 226px -2518px;
 }
 
 
 #navigation ul.shop-nav li {
-    background: url("/images/nav-separator.png") no-repeat scroll right center transparent;
-		display: inline;
-    float: left;
-    height: 51px;
-    padding-left: 11px;
-    padding-right: 24px;
-    width: 107px;
+  display: inline;
+  float: left;
+  height: 54px;
+  padding: 0 79px 0 71px;
+  width: 105px;
 }
 
 #footer-wrap {
@@ -4374,6 +4372,7 @@ h4 {
     float: right;
     height: 46px;
     width: 93px;
+ 		margin-top: 3px;
 }
 
 #navigation ul.shop-nav li.recent a:hover {
@@ -4385,7 +4384,7 @@ h4 {
 	display:none;
 }
 
-#navigation ul.logout li.login a {
+#navigation ul.shop-nav li.login a {
 	background-image: url("/images/nav-btn-log-inact.png");
   float: right;
   height: 51px;
@@ -4394,15 +4393,16 @@ h4 {
 
 }
 
-#navigation ul.logout li.login a:hover {
+#navigation ul.shop-nav li.login a:hover {
 		background-image: url("/images/nav-btn-log-act.png");
 		background-position: left -4px;
 		
 }
 
-#navigation ul.logout {
-    display: inline;
-    float: right;
+#navigation ul.shop-nav {
+  display: inline;
+   margin-left: 0;
+   padding-left: 0;
 }
 
 #navigation ul.logout li {
@@ -4459,9 +4459,20 @@ div.user_navigation ul a:hover {
 	
 }
     
-div.user_navigation ul a.active {
-
+#navigation ul.shop-nav li.login {
+    background: none;
 }
+
+#navigation ul.shop-nav .seperator {
+  background: url("/images/nav-separator.png") no-repeat scroll right center transparent;
+  display: inline;
+  float: left;
+  height: 51px;
+  padding-left: 0;
+  padding-right: 21px;
+  width: 7px;
+}
+
 
 
 

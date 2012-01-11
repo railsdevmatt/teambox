@@ -8,7 +8,6 @@
     %li.recent=link_to '', root_path
     %li.testimonials=link_to '', projects_organization_path(Organization.first)
     %li.systems= link_to '', account_settings_path
-  %ul.logout
     %li.login= link_to '', logout_path
     
   / - if current_user.invitations.pending_projects.count > 0

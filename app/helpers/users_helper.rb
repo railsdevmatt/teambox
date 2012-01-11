@@ -22,12 +22,12 @@ module UsersHelper
   end
   
   def avatar_or_gravatar(user, size)
-    # user.avatar_or_gravatar_path(size, request.ssl?).tap do |url|
-    #   unless url.starts_with? 'http'
-    #     url.replace(root_url.chomp('/') + url)
-    #     url.sub! 'http:', 'https:' if request.ssl?
-    #   end
-    # end
+    user.avatar_or_gravatar_path(size, request.ssl?).tap do |url|
+      unless url.starts_with? 'http'
+        url.replace(root_url.chomp('/') + url)
+        url.sub! 'http:', 'https:' if request.ssl?
+      end
+    end
   end
   
   def gravatar_url
