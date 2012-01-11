@@ -29,6 +29,7 @@ gem 'json'
 gem 'oa-oauth', :require => 'omniauth/oauth'
 gem 'tilt'
 gem 'choices', :git => "git://github.com/teambox/choices.git"
+gem "rake", "0.8.7"
 
 gem "will_paginate", :git=>"git://github.com/mislav/will_paginate.git", :branch=>"rails3"
 gem 'thinking-sphinx', '2.0.1', :require => 'thinking_sphinx'

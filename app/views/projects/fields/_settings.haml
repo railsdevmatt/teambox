@@ -15,14 +15,12 @@
     = f.label :organization_id, t('projects.fields.organization')
     = errors_for project, :organization_id
     = f.select :organization_id, options_for_organizations(current_user.admin_organizations)
-    %p.inline= link_to t('.manage_organizations'), organizations_path
 - else
   .text_field
     = f.label :organization_id, t('projects.fields.organization')
     = errors_for project, :organization_id
     %p
       = t('.you_cant_transfer_this_project_html', :organization => @current_project.organization)
-      = link_to t('.manage_organizations'), organizations_path
 
 .check_box.archived
   = f.check_box :archived

@@ -64,6 +64,11 @@ module TabnavHelper
       if tab.html[:li_class]      
         li_options[:class] = tab.html[:li_class] 
       end
+      
+      if tab.html[:class] == ' active'      
+        li_options[:class] = 'active'
+      end
+      
       tab.html.delete(:li_class)
         
       if tab.html[:li_end]
