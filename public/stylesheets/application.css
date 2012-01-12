@@ -4548,7 +4548,9 @@ div.user_navigation ul a:hover {
 }
 
 .featured-items {
-    padding: 0 0 20px 10px;
+    font-size: 146%;
+    margin-left: 11px;
+    margin-top: 0;
     text-align: left;
 }
 
@@ -4599,8 +4601,9 @@ div.user_navigation ul a:hover {
 
 .middle {
     margin: 0 auto;
-	   text-align: left;
-	   width: 557px;
+	  text-align: left;
+	  width: 557px;
+	  height: 255px;
 }
 
 .button1 {
@@ -4629,4 +4632,12 @@ div.user_navigation ul a:hover {
 .all_links:hover{
 	cursor:pointer;
 }
+
+.mid-bx-bttm {
+    background: url("/images/main-img.png") no-repeat scroll center -48px transparent;
+    height: 10px;
+    margin-bottom: 15px;
+    width: 598px;
+}
+
 
