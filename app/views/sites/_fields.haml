@@ -1,6 +1,6 @@
-.login.text_field
-  = label_tag :login, t('.username_or_email')
+.login.text_field.si-input-bx
+  %span="Login"
   = text_field_tag 'login', @login, :class => 'focus', :tabindex => 200
-.password.text_field
-  = label_tag :password, t('.password')
+.password.text_field.si-input-bx
+  %span="Password"
   = password_field_tag 'password', nil, :tabindex => 201

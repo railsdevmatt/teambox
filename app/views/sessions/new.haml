@@ -3,8 +3,20 @@
 - if @conflict
   .box= render 'sessions/user_exists', :provider => @profile[:provider]
 
-= form_tag session_path, :class => 'new_session', :id => 'new_session' do
-  = upgrade_browser
-  = chrome_frame
-  = render 'sessions/fields'
-  = submit_tag t('.submit')
+%div{ :class => "col col-middle"} 
+  %span{ :class => "mid-bx-top fl", :style => "margin-top:1px;"}
+  %div{ :class => "mid-box fl"}
+    %div{ :class => "mid-box-b"}
+      %div{ :class => "mid-box-t"}
+        %h3{ :class => "featured-items fl" }="Account Login"
+			  %div{ :class => "container fl"}
+			    %div{ :class => "middle"}
+			      %div{ :class => "sign-in-bx", :style => "margin-bottom: 10px; display: inline-block; width: 97%;"}
+			        %div{ :class => "si-frm-lf fl" }
+			          %b{ :style => "margin-bottom: 2px; display: block;"}="Project Manager Login"
+			            %div{ :style => "padding: 10px;"}
+  								  = form_tag session_path, :class => 'new_session', :id => 'login' do
+									    = upgrade_browser
+									    = chrome_frame
+									    = render 'sessions/fields'
+									    = submit_tag t('.submit')

@@ -65,10 +65,25 @@ module TabnavHelper
         li_options[:class] = tab.html[:li_class] 
       end
       
-      if tab.html[:class] == ' active'      
-        li_options[:class] = 'active'
+      if tab.name == 'Account Settings'
+        li_options[:class] = 'account all_links'
       end
-      
+      if tab.name == 'Profile Information'
+        li_options[:class] = 'profile all_links'
+      end
+      if tab.name == 'Profile Picture'
+        li_options[:class] = 'picture all_links'
+      end
+      if tab.name == 'Notifications'
+        li_options[:class] = 'notifications all_links'
+      end
+      if tab.name == 'Import / Export'
+        li_options[:class] = 'import all_links'
+      end
+      if tab.html[:class] == ' active'      
+        li_options[:class] += ' active'
+      end
+      logger.info tab.inspect
       tab.html.delete(:li_class)
         
       if tab.html[:li_end]

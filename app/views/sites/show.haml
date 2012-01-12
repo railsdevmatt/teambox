@@ -1,15 +1,20 @@
-%h1= image_tag @organization.logo.url(:top), :alt => @organization.name
-
-.custom_html
-  = @organization.description.try(:html_safe) || "Configure this text by going editing your organization's preferences."
+/ .custom_html
+/   = @organization.description.try(:html_safe) || "Configure this text by going editing your organization's preferences."
 
 - content_for :column do
-  = form_tag sites_path, :class => 'new_session', :id => 'new_session' do
-    = hidden_field_tag :id, @organization.permalink
-    = upgrade_browser
-    = render 'sites/fields'
-    = submit_tag t('.submit')
-    = chrome_frame
-
-  .signup_or_forgot_links
-    %p= link_to t('sessions.fields.forgot'), forgot_password_path, :tabindex => 203
+  %div{ :class => "mid-box-t"}
+    %div{ :class => "container fl"}
+      %div{ :class => "middle"}
+        %div{ :class => "sign-in-bx", :style => "margin-bottom: 10px; display: inline-block; width: 97%;"}
+          %div{ :class => "si-frm-lf fl" }
+            %b{ :style => "margin-bottom: 2px; display: block;"}="Project Manager Login"
+            %div{ :style => "padding: 10px; margin-left: 61px;"}
+              = form_tag sites_path, :class => 'new_session', :id => 'login' do
+                = hidden_field_tag :id, @organization.permalink
+                = upgrade_browser
+                = chrome_frame
+                = render 'sites/fields'
+                %div{:style => "float:left;width:200px;font-size: 11px; margin: 10px;"}= link_to t('sessions.fields.forgot'), forgot_password_path, :tabindex => 203
+                %div
+                  %a{ :class => "button1 fr"}="Login"
+                = chrome_frame

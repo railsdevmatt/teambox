@@ -13,6 +13,9 @@
   - unless @sub_action == 'delete'
     .submit= submit_tag t('.submit')
 
+= render 'shared/user_navigation'
+
+
 - if 'profile' == @sub_action
   = form_for current_user do |form|
     = form.fields_for :card do |card_form|

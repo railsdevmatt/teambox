@@ -11,21 +11,24 @@ render_tabnav :user do
       t.links_to account_profile_path
       t.highlights_on :controller => 'users', :action => 'edit', :sub_action => 'profile'
     end
+    # if Teambox.config.providers? and !Teambox.config.providers.empty?
+    #   add_tab do |t|
+    #     t.named t('.linked_accounts')
+    #     t.links_to account_linked_accounts_path
+    #     t.highlights_on :controller => 'users', :action => 'edit', :sub_action => 'linked_accounts'
+    #   end
+    # end
 
     add_tab do |t|
       t.named t('.profile_picture')
       t.links_to account_picture_path
       t.highlights_on :controller => 'users', :action => 'edit', :sub_action => 'picture'
     end
+	end
+	%>
 
-    if Teambox.config.providers? and !Teambox.config.providers.empty?
-      add_tab do |t|
-        t.named t('.linked_accounts')
-        t.links_to account_linked_accounts_path
-        t.highlights_on :controller => 'users', :action => 'edit', :sub_action => 'linked_accounts'
-      end
-    end
-
+	<%  
+	render_tabnav :users do 
     add_tab do |t|
       t.named t('.notifications')
       t.links_to account_notifications_path
@@ -37,11 +40,10 @@ render_tabnav :user do
       t.links_to teambox_datas_path
       t.highlights_on :controller => 'teambox_datas'
     end
+	end
+%>
 
-    add_tab do |t|
-      t.named t('.delete_account')
-      t.links_to account_delete_path
-      t.highlights_on :controller => 'users', :action => 'edit', :sub_action => 'delete'
-    end
-end
-%><div class="clear"></div></div>
+
+
+
+<div class="clear"></div></div>
