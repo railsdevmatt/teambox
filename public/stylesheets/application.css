@@ -4606,18 +4606,19 @@ div.user_navigation ul a:hover {
 }
 
 .button1 {
-    background: url("/images/pos-shop-acc-img.png") no-repeat scroll left -268px transparent;
-    color: #FFFFFF;
-    display: inline-block;
-    font-size: 13px;
-    height: 28px;
-    line-height: 24px;
-    padding: 4px 0 0 18px;
-    text-align: left;
-    text-decoration: none;
-    width: 76px;
-		margin-right: 68px;
-		margin-top: 19px;
+  background: url("/images/pos-shop-acc-img.png") no-repeat scroll left -268px transparent;
+   border: medium none;
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 13px;
+   height: 32px;
+   line-height: 24px;
+   margin-right: 68px;
+   margin-top: 19px;
+   padding: 0 0 3px 18px;
+   text-align: left;
+   text-decoration: none;
+   width: 94px;
 }
 .fr {
     display: inline;

@@ -11,9 +11,6 @@ jQuery(function ($) {
 					}
 				});
 				
-				$(".button1").click(function(){
-					$('#login').submit();
-				});
 				
 				$(".all_links").click(function(){
 					window.location = $(this).find('a').attr("href");

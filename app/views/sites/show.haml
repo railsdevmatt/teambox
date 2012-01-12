@@ -21,6 +21,6 @@
                       = render 'sites/fields'
                       %div{:style => "float:left;width:200px;font-size: 11px; margin: 10px;"}= link_to t('sessions.fields.forgot'), forgot_password_path, :tabindex => 203
                       %div
-                        %a{ :class => "button1 fr"}="Login"
+                        = submit_tag t('.submit'), :class => 'button1 fr'
                       = chrome_frame
     %div{ :class => "mid-bx-bttm fl"}
