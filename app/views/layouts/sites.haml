@@ -10,11 +10,12 @@
 
   %body{ :class => "#{location_name} #{I18n.locale} #{Rails.env}"}
     .shell
+      - show_flash
       #header{:style => "height: 168px;"}
         = link_to image_tag('pos-logo-new.jpg', :alt => 'POS Nation Project Manager', :id => 'logo'), projects_path
       #container.container{:style => "margin-left: 196px; min-height: 650px;width: auto;min-height:556px;"}
         .wrapper
-          - show_flash
+          
           .view_sidebar
             = yield :column
     = footer
