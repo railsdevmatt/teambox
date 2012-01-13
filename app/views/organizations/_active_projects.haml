@@ -7,14 +7,14 @@
       - if role
         %p.project
           - if @roles[role] == 'admin'
-            %img{:src => "/images/plus.png", :style => 'width: 20px; height: 20px; cursor: pointer; vertical-align: bottom;' }
+            %img{:src => "/images/plus.png", :style => 'width: 20px; height: 20px; cursor: pointer; vertical-align: bottom;margin-right: 14px;' }
           = link_to h(project), project
           %span.status
             = t('.role_html', :role => @roles[role])
         
         - if @roles[role] == 'admin'
-          %p.projects_inner{:style => "margin-left: 38px;"}
-            =raw "" + link_to(t('.settings'), edit_project_path(project)) + ""
+          %p.projects_inner{:style => "margin-left: 61px;display:none;"}
+            =raw "" + link_to("Project Settings", edit_project_path(project)) + ""
             %br
             =raw "" + link_to("People & Permissions", project_people_path(project)) + ""	
             %br
