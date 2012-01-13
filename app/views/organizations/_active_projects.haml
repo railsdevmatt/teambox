@@ -1,11 +1,3 @@
-= javascript_include_tag 'jquery', 'custom'
-:javascript
-  var $j = jQuery.noConflict();
-  $j(document).ready(function(){
-    $j('.project img').click(function(){
-      $j(this).closest('.project').next('.projects_inner').slideToggle();
-    });
-  });
 
 - if @organization.projects.unarchived.any?
   %h3= t('.title')
@@ -21,7 +13,7 @@
             = t('.role_html', :role => @roles[role])
         
         - if @roles[role] == 'admin'
-          %p.projects_inner{:style => "margin-left: 38px; display:none;"}
+          %p.projects_inner{:style => "margin-left: 38px;"}
             =raw "" + link_to(t('.settings'), edit_project_path(project)) + ""
             %br
             =raw "" + link_to("People & Permissions", project_people_path(project)) + ""	
