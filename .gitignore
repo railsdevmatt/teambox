@@ -19,7 +19,6 @@ log/*.pid
 tmp
 public/avatars
 public/logos
-public/stylesheets
 public/sprockets.js
 public/trimmer
 public/jammit
