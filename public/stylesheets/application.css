@@ -4640,4 +4640,10 @@ div.user_navigation ul a:hover {
     width: 598px;
 }
 
+.projects .project a{
+	color:#131F49;
+	font-weight: bold;
+}
+
+
 
