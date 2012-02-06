@@ -44,6 +44,7 @@ gem 'cancan', '~> 1.4.1'
 gem 'immortal', '~> 0.1.7'
 gem 'rack-ssl-enforcer', :require => 'rack/ssl-enforcer' 
 gem 'jammit'
+gem 'rake',  "0.8.7"
 
 group :development do
   gem 'sqlite3-ruby', '~> 1.2.5', :require => nil

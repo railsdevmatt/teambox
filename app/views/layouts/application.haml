@@ -5,8 +5,8 @@
     %meta{ :'http-equiv' => "X-UA-Compatible", :content => "IE=edge" }
     = csrf_meta_tag
     = auto_discovery_link_by_context(current_user, @current_project)
-    %link{ :rel => "shortcut icon", :href => "/favicon.ico" }
-    %title= "#{@page_title} Teambox"
+    %link{ :rel => "shortcut icon", :href => "/posnation.ico" }
+    %title= "#{@page_title} POS Nation Project Manager"
     = include_stylesheets :application, :media => :screen
     = include_stylesheets :print, :media => :print
     = yield :stylesheet_includes
@@ -22,20 +22,20 @@
     = archived_project_strip(@current_project)
     = render 'shared/keyboard'
     = render 'shared/confirm_email'
-    #header_wrap
-      = header
-    = configure_this_organization
-    #container.container
-      .wrapper
-        - show_flash
-        .content_wrap
-          .content#content= yield
-        .column_wrap
-          .column#column
-            = render 'shared/navigation'
-            .view_sidebar
-              = yield :column
-      = footer
-    = projects_people_data
-    = hide_google_docs_if_not_configured
+    .shell
+      #header
+        = header
+      #container.container
+        .wrapper
+          - show_flash
+          .content_wrap
+            .content#content= yield
+          .column_wrap
+            .column#column{:style => "width: 308px;"}
+              = render 'shared/navigation'
+              .view_sidebar
+                = yield :column
+    = footer
+  = projects_people_data
+  = hide_google_docs_if_not_configured
 

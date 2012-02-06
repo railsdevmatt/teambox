@@ -3,21 +3,18 @@
   %head
     %meta{ 'http-equiv' => "content-type", :content => "text/html;charset=utf-8" }
     %link{ :rel => "shortcut icon", :href => "/favicon.ico" }
-    %title=h @organization
-    = include_stylesheets :sites
+    %title="POS Nation Projects"
+    = include_stylesheets :application
     = sprockets_include_tag :public
 
   %body{ :class => "#{location_name} #{I18n.locale} #{Rails.env}"}
-    .container
-      .wrapper
-        .content
-          - show_flash
-          = yield
-        .column
-          #sidebar
+    .shell
+      #header{:style => "height: 168px;"}
+        = link_to image_tag('pos-logo-new.jpg', :alt => 'POS Nation Project Manager', :id => 'logo'), projects_path
+      - show_flash
+      #container.container{:style => "margin-left: 196px; min-height: 650px;width: auto;min-height:556px;"}
+        .wrapper
+          .view_sidebar
             = yield :column
-      .footer
-        %p.copyright
-          Teambox 
-          = link_to random_keyword, "http://teambox.com"
+    = footer
 

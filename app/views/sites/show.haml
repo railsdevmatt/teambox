@@ -1,15 +1,26 @@
-%h1= image_tag @organization.logo.url(:top), :alt => @organization.name
-
-.custom_html
-  = @organization.description.try(:html_safe) || "Configure this text by going editing your organization's preferences."
+/ .custom_html
+/   = @organization.description.try(:html_safe) || "Configure this text by going editing your organization's preferences."
 
 - content_for :column do
-  = form_tag sites_path, :class => 'new_session', :id => 'new_session' do
-    = hidden_field_tag :id, @organization.permalink
-    = upgrade_browser
-    = render 'sites/fields'
-    = submit_tag t('.submit')
-    = chrome_frame
-
-  .signup_or_forgot_links
-    %p= link_to t('sessions.fields.forgot'), forgot_password_path, :tabindex => 203
+  %div{ :class => "col col-middle"} 
+    %span{ :class => "mid-bx-top fl", :style => "margin-top:1px;"}
+    %div{ :class => "mid-box fl"}
+      %div{ :class => "mid-box-b"}
+        %div{ :class => "mid-box-t"}
+          %h3{ :class => "featured-items fl" }="Account Login"
+          %div{ :class => "fl"}
+            %div{ :class => "middle"}
+              %div{ :class => "sign-in-bx", :style => "margin-bottom: 10px; display: inline-block; width: 97%; margin-left: 10px; margin-top: 13px;"}
+                %div{ :class => "si-frm-lf fl" }
+                  %b{ :style => "margin-bottom: 2px; display: block;"}="Project Manager Login"
+                  %div{ :style => "padding: 10px; margin-left: 61px;"}
+                    = form_tag sites_path, :class => 'new_session', :id => 'login' do
+                      = hidden_field_tag :id, @organization.permalink
+                      = upgrade_browser
+                      = chrome_frame
+                      = render 'sites/fields'
+                      %div{:style => "float:left;width:200px;font-size: 11px; margin: 10px;"}= link_to t('sessions.fields.forgot'), forgot_password_path, :tabindex => 203
+                      %div
+                        = submit_tag t('.submit'), :class => 'button1 fr'
+                      = chrome_frame
+    %div{ :class => "mid-bx-bttm fl"}

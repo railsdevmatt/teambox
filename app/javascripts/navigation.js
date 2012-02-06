@@ -140,6 +140,16 @@ document.on("dom:loaded", function() {
   }
 })
 
+document.on('click', '.project img', function(e,el) {
+		var current = el.up('.project').next()
+		if(!current.visible()) {
+      current.show()
+    }else{
+      current.hide()
+		}
+})
+
+
 document.on('click', '.nav_links .el', function(e,el) {
   if (e.isMiddleClick()) return
   var clicked = Event.element(e)
