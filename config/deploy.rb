@@ -14,7 +14,7 @@ set :keep_releases, 3
 set :scm, :git
 set :repository,  "git@github.com:railsdevmatt/teambox.git"
 set :git_shallow_clone, 1
-set :branch, "dev"
+set :branch, "project_manager"
 
 set :user, "ubuntu"
 ssh_options[:forward_agent] = true
