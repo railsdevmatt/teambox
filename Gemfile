@@ -47,7 +47,8 @@ gem 'rake',  "0.8.7"
 
 group :development do
   gem 'sqlite3-ruby', '~> 1.2.5', :require => nil
-  gem 'ruby-debug', '~> 0.10.3', :require => nil
+  gem 'ruby-debug', :platforms => :ruby_18
+  gem 'ruby-debug19', :platforms => :ruby_19
   gem 'mongrel', '~> 1.1.5', :require => nil
   gem 'haml-rails'
   gem 'unicorn'
