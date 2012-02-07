@@ -7,14 +7,14 @@ group :rails do
   gem 'tzinfo', '~> 0.3.12'
   gem 'i18n', '>= 0.1.3'
   gem 'tmail', '~> 1.2.3'
-  gem 'text-format', '>= 0.6.3', :require => 'text/format'
+  # gem 'text-format', '>= 0.6.3', :require => 'text/format'
 end
 
 #Temporary hack - Fix once this ticket: is resolved
 gem 'activesupport-i18n-patch', :git => 'git://github.com/teambox/activesupport-i18n-patch.git'
 
 gem 'nokogiri'
-gem 'SystemTimer', '~> 1.2.0', :require => 'system_timer'
+# gem 'SystemTimer', '~> 1.2.0', :require => 'system_timer'
 gem 'whenever', '~> 0.4.1', :require => nil
 gem 'icalendar', '~> 1.1.3'
 gem 'libxml-ruby', '1.1.3', :require => 'libxml'
@@ -23,7 +23,7 @@ gem 'haml', '~> 3.1.2'
 gem 'sass', '~> 3.1.2'
 # gem 'mysql2'
 gem 'mysql', '~> 2.8.1', :require => nil, :group => 'mysql'
-gem 'pg', '~> 0.9.0', :require => nil, :group => 'pg'
+# gem 'pg', '~> 0.9.0', :require => nil, :group => 'pg'
 gem 'aws-s3', '~> 0.6.2', :require => 'aws/s3'
 gem 'hpricot', '~> 0.8.2'
 gem 'json'
@@ -48,8 +48,8 @@ gem 'rake',  "0.8.7"
 
 group :development do
   gem 'sqlite3-ruby', '~> 1.2.5', :require => nil
-  gem 'ruby-debug', '~> 0.10.3', :require => nil
-  gem 'mongrel', '~> 1.1.5', :require => nil
+  # gem 'ruby-debug', '~> 0.10.3', :require => nil
+  # gem 'mongrel', '~> 1.1.5', :require => nil
   gem 'haml-rails'
   gem 'unicorn'
   gem 'foreman'
