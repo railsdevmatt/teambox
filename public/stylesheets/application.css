@@ -4647,3 +4647,140 @@ div.user_navigation ul a:hover {
 
 
 
+
+
+
+
+
+
+
+
+
+
+@charset "UTF-8";
+/* CSS Document */
+
+#shell {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("/images/logic-xl-bg.png");
+  background-repeat: repeat;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clr {
+  clear: both;
+}
+h2, h3, {color:#1D3542;}
+h2 {
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+
+
+/*-- ACCOUNT LOGIN STYLE --*/
+
+#top-bar {
+  background: url("/images/lx-top-bar.png") repeat-x bottom;
+  height: 12px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+.lx-logo {
+    float: left;
+    margin: 18px auto 0;
+}
+#body-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+#wide {
+  height: 500px;
+}
+.login-box {
+    background: url("/images/lx-login-top-bar.png") no-repeat scroll center 47px transparent;
+    margin: 100px auto 0;
+    width: 645px;
+}
+.login-box h2 {
+    color: #CC3613;
+    font-family: helvetica neue;
+    font-size: 20px;
+    height: 32px;
+    margin: 0;
+    padding: 15px 0 0 54px;
+    text-transform: none;
+}
+.login {
+    margin: 0 0 10px 40px;
+}
+.password {
+    margin: 0 0 10px 40px;
+}
+.login-form-box {
+    background: url("/images/lx-login-bg.png") no-repeat scroll center top transparent;
+    height: 186px;
+    padding: 50px;
+}
+.login-label {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    padding: 15px 10px;
+    text-align: right;
+    width: 100px;
+    font-family: helvetica neue;
+}
+.login-input {
+    background: url("/images/lx-login-input.png") no-repeat scroll center center transparent;
+    border: medium none;
+    height: 43px;
+    padding: 0 10px;
+    width: 238px;
+}
+.login-input:focus {
+    background: url("/images/lx-login-input-hover.png") no-repeat scroll center center transparent;
+}
+.forgot a {
+    color: #9C290F;
+    float: left;
+    font-family: helvetica neue;
+    font-size: 12px;
+    margin: 30px 90px;
+    text-decoration: none;
+}
+.forgot a:hover {
+    color: #D53608;
+    text-decoration: underline;
+}
+.button1 {
+    background: url("/images/lx-login-btn.png") no-repeat scroll left top transparent;
+    border: medium none;
+    cursor: pointer;
+    height: 61px;
+    margin: 17px 60px 0 0;
+    width: 170px;
+}
+.button1:hover {
+    background: url("/images/lx-login-btn-hover.png") no-repeat scroll left top transparent;
+}
+
+
+
+
+
+
+
+

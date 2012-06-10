@@ -22,19 +22,20 @@
     = archived_project_strip(@current_project)
     = render 'shared/keyboard'
     = render 'shared/confirm_email'
-    .shell
-      #header
-        = header
-      #container.container
-        .wrapper
-          - show_flash
-          .content_wrap
-            .content#content= yield
-          .column_wrap
-            .column#column{:style => "width: 308px;"}
-              = render 'shared/navigation'
-              .view_sidebar
-                = yield :column
+    #shell
+      #top-bar
+        #body-content
+          = header
+        #container.container
+          .wrapper
+            - show_flash
+            .content_wrap
+              .content#content= yield
+            .column_wrap
+              .column#column{:style => "width: 308px;"}
+                = render 'shared/navigation'
+                .view_sidebar
+                  = yield :column
     = footer
   = projects_people_data
   = hide_google_docs_if_not_configured

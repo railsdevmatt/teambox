@@ -12537,4 +12537,368 @@
 [Fri Jan 06 12:59:49 2012] [error] [client 199.16.130.48] Invalid URI in request GET  HTTP/1.1
 [Fri Jan 06 14:38:28 2012] [error] [client 67.227.205.25] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
 [Fri Jan 06 15:37:49 2012] [error] [client 67.227.205.25] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
-                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                             [Mon Apr 02 01:09:33 2012] [error] [client 220.181.108.91] script '/srv/cm/public/email-us.php' not found or unable to stat
+[Mon Apr 02 02:14:22 2012] [error] [client 66.249.72.12] script '/srv/cm/public/staff.php' not found or unable to stat
+[Mon Apr 02 04:51:45 2012] [error] [client 66.220.149.245] script '/srv/cm/public/partners.php' not found or unable to stat
+[Mon Apr 02 04:56:58 2012] [error] [client 66.249.72.12] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Mon Apr 02 06:45:33 2012] [error] [client 66.249.72.12] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Mon Apr 02 07:07:50 2012] [error] [client 180.76.6.28] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 02 07:39:45 2012] [error] [client 66.249.72.12] script '/srv/cm/public/hhp.php' not found or unable to stat
+[Mon Apr 02 08:09:43 2012] [error] [client 207.46.204.160] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Mon Apr 02 08:27:43 2012] [error] [client 180.76.5.53] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 02 08:34:18 2012] [error] [client 66.249.72.12] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Mon Apr 02 08:42:08 2012] [error] [client 207.46.12.161] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Mon Apr 02 09:47:43 2012] [error] [client 180.76.5.173] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 02 10:28:42 2012] [error] [client 66.249.72.12] script '/srv/cm/public/videos.php' not found or unable to stat
+[Mon Apr 02 11:06:05 2012] [error] [client 180.76.5.91] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 02 11:08:10 2012] [error] [client 66.249.72.12] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 02 12:24:43 2012] [error] [client 180.76.5.60] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 02 14:34:23 2012] [error] [client 38.101.148.126] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Mon Apr 02 15:57:42 2012] [error] [client 67.197.69.171] script '/srv/cm/public/index.php' not found or unable to stat, referer: http://www.hydratinghumanity.org/index.php
+[Mon Apr 02 19:31:44 2012] [error] [client 67.197.69.171] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 02 19:31:55 2012] [error] [client 67.197.69.171] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 02 19:32:19 2012] [error] [client 67.197.69.171] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 02 19:32:22 2012] [error] [client 67.197.69.171] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 02 19:46:41 2012] [error] [client 67.197.69.171] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 02 23:36:07 2012] [error] [client 76.22.183.81] script '/srv/cm/public/train-a-school.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CI4BEBYwBg&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Ftrain-a-school.php&ei=Jjd6T5SgPIWk8ASDm5yFCg&usg=AFQjCNGM5jogZqTGKubTMGfhAtryYIkAmw&sig2=wp_domZoyznrvTxGtx89hw
+[Tue Apr 03 01:33:02 2012] [error] [client 176.31.121.17] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Tue Apr 03 01:44:04 2012] [error] [client 208.80.194.35] script '/srv/cm/public/index.php' not found or unable to stat
+[Tue Apr 03 02:00:55 2012] [error] [client 180.76.6.37] script '/srv/cm/public/train-a-trainer.php' not found or unable to stat
+[Tue Apr 03 02:19:17 2012] [error] [client 50.19.72.125] client sent invalid HTTP/0.9 request: HEAD HTTP/1.1
+[Tue Apr 03 04:40:12 2012] [error] [client 74.125.156.93] script '/srv/cm/public/my-hh-page.php' not found or unable to stat, referer: http://www.google.com/search
+[Tue Apr 03 06:30:46 2012] [error] [client 66.249.72.12] script '/srv/cm/public/train-a-village.php' not found or unable to stat
+[Tue Apr 03 11:02:12 2012] [error] [client 66.249.72.12] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Tue Apr 03 11:26:04 2012] [error] [client 88.190.30.131] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Tue Apr 03 12:24:09 2012] [error] [client 66.249.72.12] script '/srv/cm/public/staff.php' not found or unable to stat
+[Tue Apr 03 12:56:33 2012] [error] [client 180.76.5.103] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 03 13:21:56 2012] [error] [client 66.249.72.12] script '/srv/cm/public/hhp.php' not found or unable to stat
+[Tue Apr 03 13:50:43 2012] [error] [client 66.249.72.12] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Tue Apr 03 15:16:59 2012] [error] [client 66.249.71.245] script '/srv/cm/public/index.php' not found or unable to stat
+[Tue Apr 03 15:45:56 2012] [error] [client 66.249.71.245] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Tue Apr 03 16:14:34 2012] [error] [client 66.249.71.245] script '/srv/cm/public/videos.php' not found or unable to stat
+[Tue Apr 03 16:58:28 2012] [error] [client 70.89.23.201] script '/srv/cm/public/staff.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CCQQFjAA&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fstaff.php&ei=wit7T7WlG6Tr0gG88vH3BQ&usg=AFQjCNGx8LQCqxFpAaJJeDy5NUzhdEusLQ
+[Tue Apr 03 19:02:02 2012] [error] [client 189.234.56.95] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat, referer: http://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0CGgQFjAH&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fhow-sponsorship-works.php&ei=qUd7T5LtI8Tm2QXKp8j3Ag&usg=AFQjCNGecBx0Jk3n_81KPwXk7gdVrDZrhQ
+[Tue Apr 03 20:55:01 2012] [error] [client 180.76.5.101] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 03 21:59:19 2012] [error] [client 180.76.5.49] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 03 23:05:21 2012] [error] [client 180.76.5.136] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 04 00:10:02 2012] [error] [client 180.76.5.171] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 04 01:12:44 2012] [error] [client 180.76.5.95] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 04 06:57:08 2012] [error] [client 207.46.199.46] script '/srv/cm/public/index.php' not found or unable to stat
+[Wed Apr 04 15:05:37 2012] [error] [client 66.249.71.245] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Wed Apr 04 16:12:04 2012] [error] [client 66.249.71.245] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Wed Apr 04 16:45:28 2012] [error] [client 78.105.221.239] script '/srv/cm/public/cause-marketing.php' not found or unable to stat, referer: http://www.google.co.uk/url?sa=t&rct=j&q=two%20thirds%20of%20brands%20now%20engage%20in%20crm%20and%2097%25%20of%20marketing%20executives%20believe%20it%20is%20a%20valid%20business%20strategy.&source=web&cd=2&ved=0CC0QFjAB&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fcause-marketing.php&ei=KHp8T8HsN5SR0QX90LmgDQ&usg=AFQjCNFknHdv81ZfbKe2Z1SVpkUMquKM4w
+[Wed Apr 04 20:21:56 2012] [error] [client 66.249.72.12] script '/srv/cm/public/staff.php' not found or unable to stat
+[Thu Apr 05 00:16:29 2012] [error] [client 208.80.194.30] script '/srv/cm/public/index.php' not found or unable to stat
+[Thu Apr 05 00:45:09 2012] [error] [client 180.76.5.165] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 05 00:59:37 2012] [error] [client 180.76.5.137] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 05 01:24:01 2012] [error] [client 66.249.72.12] script '/srv/cm/public/train-a-village.php' not found or unable to stat
+[Thu Apr 05 01:47:20 2012] [error] [client 180.76.5.94] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 05 05:53:05 2012] [error] [client 66.249.72.12] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Thu Apr 05 07:03:19 2012] [error] [client 66.249.72.12] script '/srv/cm/public/videos.php' not found or unable to stat
+[Thu Apr 05 07:42:56 2012] [error] [client 208.115.111.71] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Thu Apr 05 08:27:54 2012] [error] [client 72.163.217.103] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat, referer: http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&ved=0CIgBEBYwCA&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fhealth-and-hygiene.php&ei=0FZ9T7uqC4WsrAeH35DyDA&usg=AFQjCNHJVVTgIT8qfyeBamoX8apINsZ97g&sig2=ibKrZgv9JnZNU9O1SQFJ3w
+[Thu Apr 05 08:41:06 2012] [error] [client 64.5.40.122] script '/srv/cm/public/our-projects.php' not found or unable to stat, referer: http://www.ctvn.org/archive.asp
+[Thu Apr 05 12:12:17 2012] [error] [client 208.115.113.87] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Thu Apr 05 15:34:33 2012] [error] [client 174.36.222.171] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Thu Apr 05 16:15:32 2012] [error] [client 77.220.27.87] script '/srv/cm/public/about-us.php' not found or unable to stat, referer: http://search.conduit.com/results.aspx?q=world+best+charity+organization&Suggest=&stype=Results&FollowOn=True&SelfSearch=1&SearchType=SearchWeb&SearchSource=10&ctid=CT3008668&octid=CT3008668
+[Thu Apr 05 16:15:35 2012] [error] [client 77.220.27.87] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Thu Apr 05 18:12:06 2012] [error] [client 180.76.5.158] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 05 19:53:26 2012] [error] [client 180.76.5.176] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 05 21:42:47 2012] [error] [client 180.76.5.100] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 05 23:01:42 2012] [error] [client 180.76.6.36] script '/srv/cm/public/train-a-trainer.php' not found or unable to stat
+[Fri Apr 06 01:01:36 2012] [error] [client 180.76.5.190] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 05:53:39 2012] [error] [client 66.249.67.175] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Fri Apr 06 05:59:41 2012] [error] [client 117.254.94.160] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat, referer: http://www.google.co.in/url?sa=t&rct=j&q=training+on+Health+and+hygiene+for+women&source=web&cd=14&ved=0CGMQFjADOAo&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fhealth-and-hygiene.php&ei=sYV-T6CTA8PZrQfN95yABg&usg=AFQjCNHJVVTgIT8qfyeBamoX8apINsZ97g&cad=rja
+[Fri Apr 06 10:12:38 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 10:41:19 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 11:10:08 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 11:39:01 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 12:07:36 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 12:36:28 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 13:05:10 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 13:22:56 2012] [error] [client 180.76.5.177] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 14:15:12 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 14:35:48 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 14:58:50 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 15:22:09 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 15:45:27 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 16:28:09 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 17:37:25 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 18:03:47 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 18:35:00 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 19:10:12 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 19:45:39 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 20:21:05 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 20:41:00 2012] [error] [client 208.80.194.36] script '/srv/cm/public/index.php' not found or unable to stat
+[Fri Apr 06 20:56:40 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 21:00:43 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Fri Apr 06 21:00:44 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Fri Apr 06 21:00:46 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Fri Apr 06 21:00:47 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Fri Apr 06 21:31:53 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 21:45:02 2012] [error] [client 180.76.5.65] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 21:45:07 2012] [error] [client 180.76.5.56] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 23:01:50 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 06 23:31:50 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 00:01:40 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 00:31:40 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 01:02:01 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 01:34:53 2012] [error] [client 180.76.5.113] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 02:14:05 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 02:35:55 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 02:57:07 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 03:18:41 2012] [error] [client 66.249.72.12] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Sat Apr 07 09:28:16 2012] [error] [client 208.115.113.87] script '/srv/cm/public/videos.php' not found or unable to stat
+[Sat Apr 07 12:09:33 2012] [error] [client 180.76.5.60] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 14:03:51 2012] [error] [client 180.76.5.58] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 07 16:25:42 2012] [error] [client 77.75.77.11] script '/srv/cm/public/email-us.php' not found or unable to stat
+[Sat Apr 07 18:53:12 2012] [error] [client 8.18.46.73] script '/srv/cm/public/index.php' not found or unable to stat, referer: http://hubpages.com
+[Sun Apr 08 01:59:02 2012] [error] [client 66.249.72.12] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Sun Apr 08 02:21:27 2012] [error] [client 98.251.28.146] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=list%20of%20non%20profit%20organizations%20for%20clean%20water&source=web&cd=5&ved=0CGoQFjAE&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fhow-sponsorship-works.php&ei=HfWAT__fGYKatwfh_8WtBg&usg=AFQjCNGecBx0Jk3n_81KPwXk7gdVrDZrhQ
+[Sun Apr 08 04:39:01 2012] [error] [client 218.213.29.218] script '/srv/cm/public/clean-water-sources.php' not found or unable to stat
+[Sun Apr 08 07:16:55 2012] [error] [client 218.213.29.218] script '/srv/cm/public/videos.php' not found or unable to stat
+[Sun Apr 08 10:00:00 2012] [error] [client 218.213.29.218] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Sun Apr 08 12:39:51 2012] [error] [client 218.213.29.218] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Sun Apr 08 13:26:16 2012] [error] [client 66.249.72.12] script '/srv/cm/public/clean-water-sources.php' not found or unable to stat
+[Sun Apr 08 14:31:58 2012] [error] [client 66.249.72.12] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Sun Apr 08 14:31:59 2012] [error] [client 66.249.72.12] script '/srv/cm/public/our-mission.php' not found or unable to stat
+[Sun Apr 08 14:32:00 2012] [error] [client 66.249.72.12] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Sun Apr 08 14:32:16 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-facts.php' not found or unable to stat
+[Sun Apr 08 15:09:14 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 15:09:22 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 15:22:13 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 15:35:24 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 15:48:34 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 16:01:43 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 16:14:54 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 16:28:03 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 16:41:14 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 16:54:24 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 17:20:40 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 17:33:53 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 17:47:04 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 18:00:13 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 18:13:22 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 18:26:31 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 18:39:43 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 18:52:59 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 19:06:06 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 19:19:13 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 19:32:28 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 19:45:33 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 19:58:49 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 20:11:53 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 20:25:10 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 20:51:29 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 21:04:07 2012] [error] [client 174.59.112.33] script '/srv/cm/public/staff.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=hydrating+humanity&source=web&cd=7&ved=0CEEQjBAwBg&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fstaff.php&ei=yvyBT8LBLs2p0AHWwJCZCA&usg=AFQjCNGx8LQCqxFpAaJJeDy5NUzhdEusLQ
+[Sun Apr 08 21:04:13 2012] [error] [client 174.59.112.33] script '/srv/cm/public/staff.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=hydrating+humanity&source=web&cd=7&ved=0CEEQjBAwBg&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fstaff.php&ei=yvyBT8LBLs2p0AHWwJCZCA&usg=AFQjCNGx8LQCqxFpAaJJeDy5NUzhdEusLQ
+[Sun Apr 08 21:04:31 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 21:16:28 2012] [error] [client 80.243.191.115] script '/srv/cm/public/get-involved.php' not found or unable to stat, referer: http://www.hydratinghumanity.org/get-involved.php
+[Sun Apr 08 21:16:59 2012] [error] [client 80.243.191.115] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Sun Apr 08 21:17:00 2012] [error] [client 80.243.191.115] script '/srv/cm/public/get-involved.phpindex.php' not found or unable to stat, referer: http://www.hydratinghumanity.org/get-involved.phpindex.php
+[Sun Apr 08 21:17:52 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 21:30:02 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 21:31:17 2012] [error] [client 207.46.199.46] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 08 21:42:30 2012] [error] [client 66.249.72.12] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Sun Apr 08 21:54:56 2012] [error] [client 180.76.5.50] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 21:55:55 2012] [error] [client 180.76.5.107] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 08 23:09:43 2012] [error] [client 66.249.72.12] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Sun Apr 08 23:19:41 2012] [error] [client 66.249.72.12] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Sun Apr 08 23:39:56 2012] [error] [client 8.18.46.73] script '/srv/cm/public/index.php' not found or unable to stat, referer: http://hubpages.com
+[Sun Apr 08 23:48:15 2012] [error] [client 66.249.72.12] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Mon Apr 09 00:06:07 2012] [error] [client 66.249.72.12] script '/srv/cm/public/staff.php' not found or unable to stat
+[Mon Apr 09 00:09:35 2012] [error] [client 180.76.6.224] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 00:14:44 2012] [error] [client 66.249.72.12] script '/srv/cm/public/videos.php' not found or unable to stat
+[Mon Apr 09 00:24:44 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 00:53:25 2012] [error] [client 180.76.5.166] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 01:44:44 2012] [error] [client 180.76.5.111] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 03:18:18 2012] [error] [client 208.115.111.71] script '/srv/cm/public/hhp.php' not found or unable to stat
+[Mon Apr 09 05:55:47 2012] [error] [client 178.137.160.135] script '/srv/cm/public/water-projects-info.php' not found or unable to stat, referer: http://replicashop.org/
+[Mon Apr 09 07:10:08 2012] [error] [client 69.171.229.248] script '/srv/cm/public/partners.php' not found or unable to stat
+[Mon Apr 09 07:37:51 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 08:45:29 2012] [error] [client 208.115.113.87] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Mon Apr 09 17:46:37 2012] [error] [client 66.249.72.12] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Mon Apr 09 19:38:21 2012] [error] [client 208.80.194.30] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 09 19:47:42 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-facts.php' not found or unable to stat
+[Mon Apr 09 20:56:21 2012] [error] [client 207.46.199.46] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 09 21:04:50 2012] [error] [client 67.205.96.91] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Mon Apr 09 22:48:41 2012] [error] [client 199.87.252.127] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Mon Apr 09 22:55:57 2012] [error] [client 180.76.5.173] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 23:16:15 2012] [error] [client 180.76.5.191] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 09 23:32:09 2012] [error] [client 180.76.5.165] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 10 00:05:55 2012] [error] [client 180.76.5.168] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 10 00:43:47 2012] [error] [client 180.76.5.90] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 10 04:32:42 2012] [error] [client 216.57.243.76] script '/srv/cm/public/our-mission.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=social%20workers%20and%20water%20in%20africa&source=web&cd=2&ved=0CC0QFjAB&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Four-mission.php&ei=K7eDT9fIJ8Tn0QHw2pTRBw&usg=AFQjCNExKDmKoaOBGFNbqsZe_swvDIxY-g
+[Tue Apr 10 04:33:03 2012] [error] [client 216.57.243.76] script '/srv/cm/public/our-mission.php' not found or unable to stat
+[Tue Apr 10 04:34:55 2012] [error] [client 216.57.243.76] script '/srv/cm/public/our-mission.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=social%20workers%20and%20water%20in%20africa&source=web&cd=2&ved=0CC0QFjAB&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Four-mission.php&ei=K7eDT9fIJ8Tn0QHw2pTRBw&usg=AFQjCNExKDmKoaOBGFNbqsZe_swvDIxY-g
+[Tue Apr 10 10:06:53 2012] [error] [client 208.115.113.87] script '/srv/cm/public/water-facts.php' not found or unable to stat
+[Tue Apr 10 10:27:10 2012] [error] [client 8.18.46.73] script '/srv/cm/public/index.php' not found or unable to stat, referer: http://hubpages.com
+[Tue Apr 10 13:52:06 2012] [error] [client 180.76.6.223] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 10 22:26:19 2012] [error] [client 180.76.5.190] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 01:37:07 2012] [error] [client 65.52.110.145] script '/srv/cm/public/partners.php' not found or unable to stat
+[Wed Apr 11 02:49:47 2012] [error] [client 208.115.111.71] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Wed Apr 11 08:52:28 2012] [error] [client 180.76.6.37] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 09:49:38 2012] [error] [client 180.76.5.194] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 10:44:20 2012] [error] [client 180.76.5.92] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 10:54:19 2012] [error] [client 66.249.72.12] script '/srv/cm/public/donate.php' not found or unable to stat
+[Wed Apr 11 11:14:52 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 11:51:35 2012] [error] [client 180.76.5.98] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 12:47:00 2012] [error] [client 180.76.5.195] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 13:10:43 2012] [error] [client 66.249.72.12] script '/srv/cm/public/index.php' not found or unable to stat
+[Wed Apr 11 13:33:53 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 13:47:14 2012] [error] [client 180.76.5.94] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 13:57:10 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Wed Apr 11 15:49:17 2012] [error] [client 74.125.158.85] script '/srv/cm/public/water-facts.php' not found or unable to stat, referer: http://www.google.com/search
+[Wed Apr 11 15:49:39 2012] [error] [client 220.181.108.166] script '/srv/cm/public/email-us.php' not found or unable to stat
+[Wed Apr 11 17:05:47 2012] [error] [client 66.249.72.12] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Wed Apr 11 20:09:22 2012] [error] [client 139.18.2.209] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Wed Apr 11 20:22:37 2012] [error] [client 66.249.72.12] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Wed Apr 11 23:30:49 2012] [error] [client 66.249.72.12] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Thu Apr 12 02:19:45 2012] [error] [client 208.115.113.87] script '/srv/cm/public/index.php' not found or unable to stat
+[Thu Apr 12 06:36:42 2012] [error] [client 208.115.111.71] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Thu Apr 12 08:34:11 2012] [error] [client 38.101.148.126] script '/srv/cm/public/index.php' not found or unable to stat
+[Thu Apr 12 09:42:34 2012] [error] [client 180.76.5.97] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 12 10:56:40 2012] [error] [client 180.76.5.179] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 12 12:06:53 2012] [error] [client 180.76.6.225] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 12 13:19:17 2012] [error] [client 180.76.5.147] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Thu Apr 12 14:02:32 2012] [error] [client 69.171.230.247] script '/srv/cm/public/index.php' not found or unable to stat
+[Thu Apr 12 14:04:23 2012] [error] [client 66.249.72.12] script '/srv/cm/public/train-a-village.php' not found or unable to stat
+[Thu Apr 12 16:22:58 2012] [error] [client 66.249.72.12] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Thu Apr 12 17:12:49 2012] [error] [client 80.67.1.82] script '/srv/cm/public/index.php' not found or unable to stat
+[Thu Apr 12 17:12:49 2012] [error] [client 80.67.1.82] script '/srv/cm/public/partners.php' not found or unable to stat
+[Thu Apr 12 21:54:19 2012] [error] [client 180.76.6.231] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 01:21:43 2012] [error] [client 67.197.113.31] script '/srv/cm/public/partners.php' not found or unable to stat
+[Fri Apr 13 01:39:22 2012] [error] [client 208.80.194.35] script '/srv/cm/public/index.php' not found or unable to stat
+[Fri Apr 13 06:35:53 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 07:14:33 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 08:22:12 2012] [error] [client 198.169.188.225] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Fri Apr 13 09:49:52 2012] [error] [client 66.249.72.12] script '/srv/cm/public/donate.php' not found or unable to stat
+[Fri Apr 13 10:13:49 2012] [error] [client 180.76.5.168] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 11:55:23 2012] [error] [client 180.76.5.186] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 13:36:26 2012] [error] [client 180.76.5.187] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 15:13:27 2012] [error] [client 173.49.96.25] script '/srv/cm/public/water-facts.php' not found or unable to stat, referer: https://www.google.com/
+[Fri Apr 13 17:06:20 2012] [error] [client 8.18.46.73] script '/srv/cm/public/index.php' not found or unable to stat, referer: http://hubpages.com
+[Fri Apr 13 17:33:15 2012] [error] [client 14.98.170.166] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat, referer: http://www.google.co.in/url?sa=t&rct=j&q=health%20and%20hygiene%20small&source=web&cd=9&sqi=2&ved=0CGAQFjAI&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Fhealth-and-hygiene.php&ei=fWKIT8jSDMWtrAextNyaCw&usg=AFQjCNHJVVTgIT8qfyeBamoX8apINsZ97g
+[Fri Apr 13 21:32:35 2012] [error] [client 66.249.72.12] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Fri Apr 13 21:33:06 2012] [error] [client 66.249.72.12] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Fri Apr 13 21:56:12 2012] [error] [client 180.76.5.91] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Fri Apr 13 22:50:28 2012] [error] [client 180.76.5.90] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 02:48:40 2012] [error] [client 208.115.111.71] script '/srv/cm/public/water-technologies.php' not found or unable to stat
+[Sat Apr 14 03:32:06 2012] [error] [client 66.249.72.12] script '/srv/cm/public/donate.php' not found or unable to stat
+[Sat Apr 14 05:05:46 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 05:29:37 2012] [error] [client 199.21.99.104] script '/srv/cm/public/water-facts.php' not found or unable to stat
+[Sat Apr 14 06:55:22 2012] [error] [client 199.21.99.104] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Sat Apr 14 11:18:39 2012] [error] [client 199.87.252.127] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Sat Apr 14 12:54:33 2012] [error] [client 180.76.5.95] script '/srv/cm/public/staff.php' not found or unable to stat
+[Sat Apr 14 14:03:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Sat Apr 14 14:30:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Sat Apr 14 14:30:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Sat Apr 14 14:31:18 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-technologies.php' not found or unable to stat
+[Sat Apr 14 14:31:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-facts.php' not found or unable to stat
+[Sat Apr 14 14:32:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/videos.php' not found or unable to stat
+[Sat Apr 14 14:32:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/staff.php' not found or unable to stat
+[Sat Apr 14 14:33:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Sat Apr 14 14:33:48 2012] [error] [client 38.111.147.84] script '/srv/cm/public/our-mission.php' not found or unable to stat
+[Sat Apr 14 14:34:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/my-hh-page.php' not found or unable to stat
+[Sat Apr 14 14:34:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/index.php' not found or unable to stat
+[Sat Apr 14 14:35:26 2012] [error] [client 38.111.147.84] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Sat Apr 14 14:35:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/hhp.php' not found or unable to stat
+[Sat Apr 14 14:36:18 2012] [error] [client 38.111.147.84] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Sat Apr 14 14:36:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/email-us.php' not found or unable to stat
+[Sat Apr 14 14:37:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/donate.php' not found or unable to stat
+[Sat Apr 14 14:37:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/clean-water-sources.php' not found or unable to stat
+[Sat Apr 14 14:38:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/cause-marketing.php' not found or unable to stat
+[Sat Apr 14 14:38:48 2012] [error] [client 38.111.147.84] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Sat Apr 14 14:39:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:39:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:40:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:40:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:41:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:41:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:42:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:42:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:43:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:43:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:44:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:45:08 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:45:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:45:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:46:18 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:46:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:47:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:47:56 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:48:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:48:48 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:49:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:49:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:50:17 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 14:50:47 2012] [error] [client 38.111.147.84] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 19:52:26 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sat Apr 14 22:13:42 2012] [error] [client 180.76.5.136] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 15 00:35:31 2012] [error] [client 208.115.111.71] script '/srv/cm/public/our-mission.php' not found or unable to stat
+[Sun Apr 15 03:11:22 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:23 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:25 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:26 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:27 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:29 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:30 2012] [error] [client 173.236.21.106] script '/srv/cm/public/index.php' not found or unable to stat
+[Sun Apr 15 03:11:39 2012] [error] [client 173.236.21.106] script '/srv/cm/public/partners.php' not found or unable to stat
+[Sun Apr 15 04:08:14 2012] [error] [client 129.65.241.28] script '/srv/cm/public/our-mission.php' not found or unable to stat, referer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0CH0QFjAE&url=http%3A%2F%2Fwww.hydratinghumanity.org%2Four-mission.php&ei=eEiKT_jFBubKiQKj9KXgDg&usg=AFQjCNExKDmKoaOBGFNbqsZe_swvDIxY-g&sig2=YDsiGcqKrV-KQ500CWKtaw
+[Sun Apr 15 06:35:48 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 15 08:17:52 2012] [error] [client 77.75.77.17] script '/srv/cm/public/email-us.php' not found or unable to stat
+[Sun Apr 15 08:40:04 2012] [error] [client 202.46.63.124] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 15 11:43:21 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-technologies.php' not found or unable to stat
+[Sun Apr 15 15:46:39 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Sun Apr 15 16:49:56 2012] [error] [client 199.21.99.104] script '/srv/cm/public/about-us.php' not found or unable to stat
+[Sun Apr 15 18:07:58 2012] [error] [client 199.21.99.104] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Sun Apr 15 18:35:22 2012] [error] [client 66.249.72.12] script '/srv/cm/public/health-and-hygiene.php' not found or unable to stat
+[Sun Apr 15 19:22:05 2012] [error] [client 66.249.72.12] script '/srv/cm/public/donate.php' not found or unable to stat
+[Sun Apr 15 20:44:01 2012] [error] [client 199.21.99.104] script '/srv/cm/public/hhp.php' not found or unable to stat
+[Sun Apr 15 21:18:53 2012] [error] [client 199.21.99.104] script '/srv/cm/public/staff.php' not found or unable to stat
+[Sun Apr 15 21:20:53 2012] [error] [client 66.249.72.12] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Sun Apr 15 22:41:16 2012] [error] [client 199.21.99.104] script '/srv/cm/public/clean-water-sources.php' not found or unable to stat
+[Mon Apr 16 00:03:36 2012] [error] [client 199.21.99.104] script '/srv/cm/public/cause-marketing.php' not found or unable to stat
+[Mon Apr 16 01:25:56 2012] [error] [client 199.21.99.104] script '/srv/cm/public/why-water.php' not found or unable to stat
+[Mon Apr 16 02:48:17 2012] [error] [client 199.21.99.104] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Mon Apr 16 04:10:37 2012] [error] [client 199.21.99.104] script '/srv/cm/public/our-mission.php' not found or unable to stat
+[Mon Apr 16 04:17:25 2012] [error] [client 199.87.252.129] script '/srv/cm/public/our-projects.php' not found or unable to stat
+[Mon Apr 16 05:32:58 2012] [error] [client 199.21.99.104] script '/srv/cm/public/water-technologies.php' not found or unable to stat
+[Mon Apr 16 05:51:04 2012] [error] [client 65.52.110.145] script '/srv/cm/public/partners.php' not found or unable to stat
+[Mon Apr 16 06:55:18 2012] [error] [client 199.21.99.104] script '/srv/cm/public/how-sponsorship-works.php' not found or unable to stat
+[Mon Apr 16 08:49:13 2012] [error] [client 199.21.99.104] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 16 09:31:39 2012] [error] [client 199.21.99.104] script '/srv/cm/public/world-water-day.php' not found or unable to stat
+[Mon Apr 16 10:15:35 2012] [error] [client 66.249.72.12] script '/srv/cm/public/our-mission.php' not found or unable to stat
+[Mon Apr 16 11:37:14 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Mon Apr 16 16:27:17 2012] [error] [client 208.80.194.30] script '/srv/cm/public/index.php' not found or unable to stat
+[Mon Apr 16 18:40:23 2012] [error] [client 208.115.111.71] script '/srv/cm/public/email-us.php' not found or unable to stat
+[Mon Apr 16 23:53:43 2012] [error] [client 66.249.72.12] script '/srv/cm/public/water-technologies.php' not found or unable to stat
+[Tue Apr 17 01:09:59 2012] [error] [client 24.161.17.168] script '/srv/cm/public/water-technologies.php' not found or unable to stat, referer: http://www.google.com/webhp?sourceid=toolbar-instant&hl=en&ion=1&qscrl=1&nord=1&rlz=1T4RNTN_enUS362US362#hl=en&qscrl=1&nord=1&rlz=1T4RNTN_enUS362US362&output=search&sclient=psy-ab&q=maintain%20a%20spring%20box%20and%20bore%20holes&oq=&aq=&aqi=&aql=&gs_l=&pbx=1&fp=799dc676f220bf41&ion=1&bav=on.2,or.r_gc.r_pw.r_qf.,cf.osb&biw=1249&bih=571
+[Tue Apr 17 01:10:24 2012] [error] [client 24.161.17.168] script '/srv/cm/public/water-technologies.php' not found or unable to stat
+[Tue Apr 17 02:33:55 2012] [error] [client 208.115.111.71] script '/srv/cm/public/clean-water-sources.php' not found or unable to stat
+[Tue Apr 17 02:35:31 2012] [error] [client 208.115.111.71] script '/srv/cm/public/partners.php' not found or unable to stat
+[Tue Apr 17 05:20:18 2012] [error] [client 66.249.72.12] script '/srv/cm/public/index.php' not found or unable to stat
+[Tue Apr 17 08:50:20 2012] [error] [client 82.223.198.240] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 17 10:12:37 2012] [error] [client 69.171.234.3] script '/srv/cm/public/partners.php' not found or unable to stat
+[Tue Apr 17 11:20:06 2012] [error] [client 199.87.252.129] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 17 14:21:39 2012] [error] [client 180.76.5.167] script '/srv/cm/public/water-projects-info.php' not found or unable to stat
+[Tue Apr 17 16:58:57 2012] [error] [client 78.158.11.226] script '/srv/cm/public/index.php' not found or unable to stat, referer: http://promotests.com/seolinkvine/
+[Tue Apr 17 20:13:20 2012] [error] [client 66.249.67.175] script '/srv/cm/public/get-involved.php' not found or unable to stat
+[Thu Apr 19 14:43:34 2012] [error] [client 117.55.226.41] Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Thu Apr 19 14:43:34 2012] [error] [client 117.55.226.41] script '/srv/cm/public/index.php' not found or unable to stat
+[Thu Apr 19 14:47:05 2012] [error] [client 117.55.226.41] Invalid URI in request GET  HTTP/1.1
+[Fri Apr 20 17:13:13 2012] [error] [client 188.9.174.225] client sent invalid HTTP/0.9 request: HEAD HTTP/1.1
+[Tue Apr 24 18:32:28 2012] [error] [client 173.203.71.192] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Fri Apr 27 15:04:14 2012] [error] [client 173.203.71.192] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Fri May 11 04:21:46 2012] [error] [client 173.203.71.192] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Fri May 11 13:19:31 2012] [error] [client 122.115.63.46] File does not exist: /srv/cm/public/robots.txt/.php
+[Sat May 12 00:25:25 2012] [error] [client 67.205.96.91] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Mon May 14 07:39:57 2012] [error] [client 173.203.71.192] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Mon May 14 08:39:38 2012] [error] [client 129.35.210.51] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Thu May 17 23:51:05 2012] [error] [client 62.141.45.80] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Mon May 28 14:33:59 2012] [error] [client 208.104.200.75] (13)Permission denied: file permissions deny server access: /srv/projects/public/images/lx-logo.png, referer: http://projects.logicxl.com/login
+[Mon May 28 14:34:03 2012] [error] [client 208.104.200.75] (13)Permission denied: file permissions deny server access: /srv/projects/public/images/lx-logo.png, referer: http://projects.logicxl.com/login
+[Thu May 31 20:16:34 2012] [error] [client 188.95.253.175] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Fri Jun 08 04:53:29 2012] [error] [client 188.95.253.175] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.test0:)
+[Fri Jun 08 20:25:35 2012] [error] [client 178.212.183.126] Invalid URI in request GET admin/scripts/setup.php HTTP/1.1
+[Fri Jun 08 20:32:53 2012] [error] [client 178.212.183.126] Invalid URI in request GET  HTTP/1.1
