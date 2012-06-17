@@ -2,13 +2,13 @@
   Welcome
   = link_to current_user.login, current_user
 .cl
-#navigation
-  %ul.shop-nav
+#navigations
+  %ul.shop
     / %li= link_to current_user.login, current_user
-    %li.recent=link_to '', root_path
-    %li.testimonials=link_to '', projects_organization_path(Organization.first)
-    %li.systems= link_to '', account_settings_path
-    %li.login= link_to '', logout_path
+    %li.recent=link_to 'Recent', root_path
+    %li.testimonials=link_to 'Testimonials', projects_organization_path(Organization.first)
+    %li.systems= link_to 'Systems', account_settings_path
+    %li.login= link_to 'Logout', logout_path
     
   / - if current_user.invitations.pending_projects.count > 0
   /   %li= link_to_unless_current t('.project_invitations', :count => current_user.invitations.count),
