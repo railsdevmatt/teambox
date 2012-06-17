@@ -3,25 +3,25 @@
 en:
   marketing:
     home: Home
-    home_title: Home | The POS Nation Project Manager
+    home_title: Home | The Logic XL Project Manager
     pricing: Pricing
     pricing_title: Plans & Pricing
-    what_is_teambox: What is the POS Nation Project Manager?
+    what_is_teambox: What is the Logic XL Project Manager?
     what_is_teambox_title: Features & Information
-    about_teambox: About the POS Nation Project Manager
-    about_teambox_title: About the POS Nation Project Manager
+    about_teambox: About the Logic XL Project Manager
+    about_teambox_title: About the Logic XL Project Manager
     tour: Tour
     tour_title: Project collaboration for agile teams
     case_studies: Case studies
-    case_studies_title: Companies using the POS Nation Project Manager and their testimonials
+    case_studies_title: Companies using the Logic XL Project Manager and their testimonials
     newsletters: Past newsletters
     newsletters_title: Corporate communications
     webinars: Previous and upcoming webinars
     webinars_title: Online training sesssions for task management
-    history: The the POS Nation Project Manager Story
-    history_title: Origins and milestone for the POS Nation Project Manager
+    history: The the Logic XL Project Manager Story
+    history_title: Origins and milestone for the Logic XL Project Manager
     press: Press room
-    press_title: the POS Nation Project Manager logo, PR notes and press releases
+    press_title: the Logic XL Project Manager logo, PR notes and press releases
     tour_projects: Projects
     tour_projects_title: Project Management tools
     tour_conversations: Conversations
@@ -37,13 +37,13 @@ en:
     tour_social: Social tools
     tour_social_title: Social productivity software
     tour_video: Watch video
-    tour_video_title: Tutorial video for the POS Nation Project Manager
+    tour_video_title: Tutorial video for the Logic XL Project Manager
     change_locale:
       another_language_available: "This page is also avaliable in %{language}"
       accept: "View in %{language}"
       cancel: "Hide this"
   # if latest_announcement is less than 5 characters, it will not be displayed
-  latest_announcement_html: "<strong>New</strong>: Earn money by referring new users into the POS Nation Project Manager. Log in and go into your affiliate area to make up a 15% of the income you generate!<br/><br/>Read <a href='http://blog.the POS Nation Project Manager.com'>our blog</a> for more news about the POS Nation Project Manager."
+  latest_announcement_html: "<strong>New</strong>: Earn money by referring new users into the Logic XL Project Manager. Log in and go into your affiliate area to make up a 15% of the income you generate!<br/><br/>Read <a href='http://blog.the Logic XL Project Manager.com'>our blog</a> for more news about the Logic XL Project Manager."
   common:
     format_name: "%{first_name} %{last_name}"
     format_name_short: "%{first_name_first_character}. %{last_name}"
@@ -104,7 +104,7 @@ en:
     left_project: "You are no longer in this project"
     failed_left_project: "You cannot leave this project"
   public_downloads:
-    promo_p1: This %{downloadable} is shared using the POS Nation Project Manager, a collaboration platform for your projects.
+    promo_p1: This %{downloadable} is shared using the Logic XL Project Manager, a collaboration platform for your projects.
     promo_p2: Enjoy better task management, file sharing and group communication.
     download:
       download_file: "Download file:"
@@ -191,7 +191,7 @@ en:
     sent:
       title: Reset Password
       login_link_sent: "We just sent you an email to %{email} so you can retrieve your password."
-      follow_the_link_html: "Follow the link inside this email to log into the POS Nation Project Manager! If you can't find it, look in the spam folder."
+      follow_the_link_html: "Follow the link inside this email to log into the Logic XL Project Manager! If you can't find it, look in the spam folder."
     reset:
       title: You can now reset your password
       submit: Reset my password
@@ -235,7 +235,7 @@ en:
         text: to get started
       tips:
         link: "Learn our staff's tips"
-        text: to master your the POS Nation Project Manager
+        text: to master your the Logic XL Project Manager
       support:
         link: "Contact support"
         text: if you need help
@@ -302,19 +302,19 @@ en:
       linked_accounts:
         find_more_contacts: Find more contacts by linking your accounts
         link_your_accounts: Link your social network profiles to find your friends!
-        teambox_integrates_services: We integrate with services you already use. Get the most out of the POS Nation Project Manager by connecting your accounts.
-        no_spam_html: We hate spam! the POS Nation Project Manager will <b>not</b> send unsolicited messages to your contacts.
+        teambox_integrates_services: We integrate with services you already use. Get the most out of the Logic XL Project Manager by connecting your accounts.
+        no_spam_html: We hate spam! the Logic XL Project Manager will <b>not</b> send unsolicited messages to your contacts.
       invalid_login: "use only letters, numbers and underscores"
       delete:
         project:
-          steps_before_1: "To delete your the POS Nation Project Manager account, you first need to leave or delete all your current projects."
+          steps_before_1: "To delete your the Logic XL Project Manager account, you first need to leave or delete all your current projects."
           steps_before_2: "This will ensure that no other users will lose data on their projects when you delete your account."
           steps_before_3: "Leave or delete your current projects and then come back to this page to delete your account."
         organization:
-          steps_before_1: "You can't delete your the POS Nation Project Manager account if you are the last administrator of a paid organization."
+          steps_before_1: "You can't delete your the Logic XL Project Manager account if you are the last administrator of a paid organization."
           steps_before_2: "In order to delete your account you need to give administrator privilege to at least one other member of the organization, or downgrade this organization to a free plan."
           steps_before_3: "Give administrator to another user or downgrade your organizations and come back to this page to delete your account."
-        what_will_happen: "After deleting your account, your the POS Nation Project Manager profile will not be accessible anymore."
+        what_will_happen: "After deleting your account, your the Logic XL Project Manager profile will not be accessible anymore."
         delete_my_account: "Delete my account now"
         account_deleted: "Your account has been deleted. We will miss you!"
         couldnt_delete_account: "We can't delete your account because you still have active or archived projects."
@@ -329,7 +329,7 @@ en:
       new:
         use_this_email: "You have invitations to share projects for this email address. If you want to access these projects, don't change this email address. You can change your email address once you've completed the signup process."
         account:
-          title: Your the POS Nation Project Manager account
+          title: Your the Logic XL Project Manager account
           choose_username: Choose a username so people can find you. You will use it to log in.
           validations: Must be all lowercase, no spaces allowed. You can use underscores.
           field_note: This is what other users will use to refer to you
@@ -345,7 +345,7 @@ en:
       no_public_signup: "Public signups are not allowed on this system."
       you_are_logged_in: "You already have an account. Log out first to sign up as a different user."
       existing_user_html: "If you already have an account, <a href='%{login_url}'>log in</a> or <a href='%{forgot_url}'>retrieve your password</a>."
-      you_already_have_an_account_html: "You already have a the POS Nation Project Manager account for the address %{email}. <a href='%{login_link}'>Log in with this email</a> or <a href='%{reset_password_link}'>reset your password</a> if you forgot it."
+      you_already_have_an_account_html: "You already have a the Logic XL Project Manager account for the address %{email}. <a href='%{login_link}'>Log in with this email</a> or <a href='%{reset_password_link}'>reset your password</a> if you forgot it."
     create:
       thanks: Thanks for signing up!
       error: "We couldn't set up that account, sorry. Please try again, or contact an admin (link is above)."
@@ -363,8 +363,8 @@ en:
       error: "Couldn't save the updated profile. Please correct the mistakes and retry."
     activation:
       resent: "We've re-sent the activation email. Take a look at your inbox!"
-      already_done: "You have already confirmed your email! You can now use the POS Nation Project Manager."
-      activated: "Your account has been activated! Welcome to the POS Nation Project Manager :)"
+      already_done: "You have already confirmed your email! You can now use the Logic XL Project Manager."
+      activated: "Your account has been activated! Welcome to the Logic XL Project Manager :)"
       invalid_html: "<p>Invalid or expired access link. Login with your email and password.</p><p>If you don't remember your login data, follow the Forgot your Password link.</p>"
       invalid_user: Invalid user
     link_profiles:
@@ -403,9 +403,9 @@ en:
       remove_from_project: Remove from Project
     feeds:
       title: Sync your activity feeds
-      follow_activities: "You can follow the POS Nation Project Manager activities from News Readers (Desktop or Mobile)."
+      follow_activities: "You can follow the Logic XL Project Manager activities from News Readers (Desktop or Mobile)."
       receive_notifications: "By using a Feed Reader on your computer or mobile device, you will receive notifications from activities in your projects."
-      configure: "You can configure your feed reader to alert you every time something new happens in the POS Nation Project Manager, even if you don't have it open in a window."
+      configure: "You can configure your feed reader to alert you every time something new happens in the Logic XL Project Manager, even if you don't have it open in a window."
       import:
         title: How to import a news feed
         body_html: "Beneath you have a list of feeds you can follow. To import them into your feed reader you need to <strong>right-click the link</strong> and select <strong>copy link address</strong>. Next, go to your feed reader, add a new Feed and paste the address of that feed."
@@ -417,10 +417,10 @@ en:
         body_html: "Refer to the <a href='%{link}'>knowledge base</a> for this."
       more_tips:
         title: More tips
-        body_html: "Learn <a href='%{link}'>more ways to access the POS Nation Project Manager</a>."
+        body_html: "Learn <a href='%{link}'>more ways to access the Logic XL Project Manager</a>."
     calendars:
       title: Sync your calendars
-      tasks_can_be_synced: "the POS Nation Project Manager tasks can be synched with your usual Calendars so you don't forget what's coming up."
+      tasks_can_be_synced: "the Logic XL Project Manager tasks can be synched with your usual Calendars so you don't forget what's coming up."
       possible_clients: "You can sync your Google Calendar, your Apple's iCal, Outlook, Blackberry and others."
       your_calendars: Your Calendars
       subscribe_to_all: "All Projects: "
@@ -443,7 +443,7 @@ en:
     daily_task_reminder_email:
       urgent: Urgent
       daily_task_reminder: "Daily task reminder"
-      daily_task_reminder_from_teambox: "This is the daily task reminder email from the POS Nation Project Manager"
+      daily_task_reminder_from_teambox: "This is the daily task reminder email from the Logic XL Project Manager"
       urgent_tasks: "Urgent tasks"
       late_tasks: "Late tasks"
       tasks_for_today: "Tasks for today"
@@ -455,7 +455,7 @@ en:
     email_posts:
       title: "Reply via email"
       send_replies_with_this_email: "You can send replies to this thread by email. Just email to this address:"
-      teambox_magic_happens: "the POS Nation Project Manager will parse your message and attachments and post them to the thread."
+      teambox_magic_happens: "the Logic XL Project Manager will parse your message and attachments and post them to the thread."
       other_shortcuts_available: "Also, you can use these other handy shortcuts:"
       will_create_conversation: "will create a new conversation in the project."
       will_create_task: "will create a new task in the project."
@@ -499,8 +499,8 @@ en:
       subscribe: Subscribe to the news feed
       new_project: New Project
       rss:
-        title: the POS Nation Project Manager projects overview
-        description: Overview of all projects in the POS Nation Project Manager
+        title: the Logic XL Project Manager projects overview
+        description: Overview of all projects in the Logic XL Project Manager
       archived: "Show %{count} Archived Projects..."
       close_pane: Close projects view
     new_project_suggestions:
@@ -563,7 +563,7 @@ en:
       delete_project:
         title: "Are you sure you want to delete %{project}?"
         body_html: "This will <strong>permanently</strong> delete all data in the project."
-        body_extra_html: "Deleting this project will not cancel your the POS Nation Project Manager subscription. To cancel your subscription <a href='%{url}''>click here</a>."
+        body_extra_html: "Deleting this project will not cancel your the Logic XL Project Manager subscription. To cancel your subscription <a href='%{url}''>click here</a>."
       settings:
         you_cant_unarchive: "You have %{active} active projects, and your current plan only allows %{max} projects"
         upgrade_html: "In order to <b>unarchive this project</b> and be able to edit it, you must <a href='%{link}'>upgrade your account and get more storage and features</a> or archive other projects."
@@ -675,7 +675,7 @@ en:
       no_invoices: You don't have any invoice
       company_name: Company name
       vat: VAT Code
-      invoice: the POS Nation Project Manager invoice
+      invoice: the Logic XL Project Manager invoice
       print: Print
       date: Date
       amount: Amount
@@ -707,17 +707,17 @@ en:
       name_html: "Organization name"
       name_placeholder: Your organization
       permalink_html: Short organization code <em>No spaces allowed. Will be used for the web address.</em>
-      domain_html: "Domain <em>You can use your own domain for your organization, check the <a href='http://help.posnation.com/knowledgebase/articles/10247-custom-domain' title='How to use your own domain for your organization in the POS Nation Project Manager'>documentation</a>.</em>"
+      domain_html: "Domain <em>You can use your own domain for your organization, check the <a href='http://help.posnation.com/knowledgebase/articles/10247-custom-domain' title='How to use your own domain for your organization in the Logic XL Project Manager'>documentation</a>.</em>"
       omit_email_processing_html: Do not process incoming emails
     appearance_fields:
       logo_html: Logo <em>Ideally should be 134x36 pixels</em>
       description_html: HTML to be displayed on the entrance page <a href="http://help.posnation.com/knowledgebase/articles/10249-customizing-your-login-page">Learn how to use this</a>
-      delete_custom_logo: Delete custom logo (and revert back to the the POS Nation Project Manager one)
+      delete_custom_logo: Delete custom logo (and revert back to the the Logic XL Project Manager one)
     index:
       about:
         title: About Organizations
         explain1: An organization allows you to group projects and users under a brand name.
-        explain2: "You can link them to your own domain to customize your the POS Nation Project Manager space. Use your own logo and login page, and share it with your clients."
+        explain2: "You can link them to your own domain to customize your the Logic XL Project Manager space. Use your own logo and login page, and share it with your clients."
       new:
         create: "+ Create a new Organization"
         explain: "Brand it with your own logo and website, and create projects inside."
@@ -763,7 +763,7 @@ en:
       not_paid_plan: You can't delete an organization with a paid plan.
       go_downgrade_to_free_plan_html: "You need to <a href='%{link}'>unsubscribe</a> from the paid plan before deleting the organization. You can downgrade your account to the free plan from the <a href='%{link}'>billing</a> section."
       delete: Delete this organization
-      clarification: "If you delete this organization, all the information that's attached to it organization will be lost forever. The users that belong to this organization will still be able to login to the POS Nation Project Manager and work with their other organizations."
+      clarification: "If you delete this organization, all the information that's attached to it organization will be lost forever. The users that belong to this organization will still be able to login to the Logic XL Project Manager and work with their other organizations."
       confirm: I understand that deleting this organization is irreversible and all the content related to this organization will be lost.
       deleted: You deleted the organization
   memberships:
@@ -877,7 +877,7 @@ en:
       item3_html: "<b>Impress</b>. Any comment can be formatted with text styles."
       item4_html: "<b>Inbox-driven?</b> You can reply to a conversation from your email."
       footer1_html: "Conversations are great to <b>share a design</b>, <b>decide a date</b> for meeting or <b>report</b> some news."
-      footer2_html: "Since they're threaded, it's easy to go back in time and see which files were sent and what did each teammate said. In the POS Nation Project Manager, <b>collaborating is also reporting</b>."
+      footer2_html: "Since they're threaded, it's easy to go back in time and see which files were sent and what did each teammate said. In the Logic XL Project Manager, <b>collaborating is also reporting</b>."
     column:
       new_conversation: New Conversation
       cant_create: You don't have permission to create conversations in this project
@@ -1022,7 +1022,7 @@ en:
       item2_html: "<b>Publish</b>. Instant web publishing with shared pages. Show the world."
       item3_html: "<b>Print</b>. Pages are printer-friendly. Try printing or exporting a PDF!"
       item4_html: "<b>Wiki</b>. Pages acts like a wiki, giving quick access to the project's information."
-      footer1_html: "Use the POS Nation Project Manager as your <b>shared whiteboard</b> for frequently used stuff."
+      footer1_html: "Use the Logic XL Project Manager as your <b>shared whiteboard</b> for frequently used stuff."
       footer2_html: "You can also attach files to any page inside each note. Enjoy!"
     buttons:
       new_note: Text
@@ -1037,7 +1037,7 @@ en:
       feature2_html: "<b>Publish</b>. Instant web publishing with shared pages. Show the world."
       feature3_html: "<b>Print</b>. Pages are printer-friendly. Try printing or exporting a PDF!"
       feature4_html: "<b>Wiki</b>. Pages acts like a wiki, giving quick access to the project's information."
-      footer1_html: "Use the POS Nation Project Manager as your <b>shared whiteboard</b> for frequently used stuff."
+      footer1_html: "Use the Logic XL Project Manager as your <b>shared whiteboard</b> for frequently used stuff."
       footer2_html: "You can also attach files to any page inside each note. Enjoy!"
       submit: Create page
       sending: Sending...
@@ -1252,10 +1252,10 @@ en:
     import_fields:
       select_file: Please choose a file containing your data.
       service: "Which service did you export your data from?"
-      please_supply_user_map: We detected the following users in your import. Please confirm which users correspond to which user on the POS Nation Project Manager.
+      please_supply_user_map: We detected the following users in your import. Please confirm which users correspond to which user on the Logic XL Project Manager.
       in_organization: "Put all projects in this organization"
       user: User
-      teambox_user: the POS Nation Project Manager user
+      teambox_user: the Logic XL Project Manager user
     new_export:
       title: "Export data"
       submit: Export data
@@ -1264,7 +1264,7 @@ en:
     index:
       title: "Import or export your data"
       imports: "Import data from a file"
-      imports_explain: "You may import the POS Nation Project Manager backup files, or Basecamp projects."
+      imports_explain: "You may import the Logic XL Project Manager backup files, or Basecamp projects."
       exports: "Export your projects"
       no_imports: "There are no recent imports."
       no_exports: "There are no recent exports."
@@ -1284,7 +1284,7 @@ en:
       projects: "Imported projects"
       import_error: "There was an error loading your import. Please try again."
     column:
-      description: "Here you can move your data in and out of the POS Nation Project Manager."
+      description: "Here you can move your data in and out of the Logic XL Project Manager."
   oauth_clients:
     client_token:
       revoke: Revoke access
@@ -1307,8 +1307,8 @@ en:
       title: Linked applications
       register_app: Register a new app
       developers_register_html: "<strong>Developers:</strong> Register your apps <a href='%{url}'>Here</a>"
-      authorized_applications: "The following applications are authorized to access your the POS Nation Project Manager account."
-      no_authorized_applications: "No applications are authorized to access your the POS Nation Project Manager account."
+      authorized_applications: "The following applications are authorized to access your the Logic XL Project Manager account."
+      no_authorized_applications: "No applications are authorized to access your the Logic XL Project Manager account."
     developer:
       title: Third-party applications
       no_registered_applications_html: "Do you have an application you would like to register for use with us using the <a href='http://oauth.net'>OAuth</a> standard? You must register your web application before it can make OAuth requests to this service."
@@ -1317,7 +1317,7 @@ en:
     tooltip: Upload a file
     comment_upload_link: Attachment
     new:
-      select_a_file: Select a file to upload to the POS Nation Project Manager
+      select_a_file: Select a file to upload to the Logic XL Project Manager
       storage_remaining: "You can upload up to %{bytes} more with your current plan. <a href='%{url}'>Upgrade</a> for more storage."
       uploading: Uploading...
     index:
@@ -1344,7 +1344,7 @@ en:
     primer:
       empty: This project doesn't have any files yet.
       create_first: Upload the first file to this project!
-      define1_html: "Ever had problems sharing a file with your team? the POS Nation Project Manager makes sharing easy again."
+      define1_html: "Ever had problems sharing a file with your team? the Logic XL Project Manager makes sharing easy again."
       define2_html: "You can upload files here or attach documents to conversations, tasks or pages. "
       item1_html: "<b>Bigger files</b>. Upload files of any size and forget about email limitations."
       item2_html: "<b>Versioning</b>. Upload new versions of a file and keep track of changes."
@@ -1402,7 +1402,7 @@ en:
       signup: Sign up for an account
     new:
       title: Log in
-      video: What's the POS Nation Project Manager about?
+      video: What's the Logic XL Project Manager about?
       submit: Log in
       login_failed: "Couldn't log you in as %{login}. Try inserting your email and password, or use Forgot your Password to set a new one."
   sites:
@@ -1414,13 +1414,13 @@ en:
   plans:
     thanks:
       title: Thank you for your support!
-      explain: "By purchasing a premium account, you're contributing to the POS Nation Project Manager's development and getting much more."
+      explain: "By purchasing a premium account, you're contributing to the Logic XL Project Manager's development and getting much more."
       you_can_now_create: "You can now create up to %{projects} projects."
       reset_your_password: Please enter a new password and confirm it.
     show:
       title: Which organization would you like to upgrade?
       usage: "You can create <b>%{available_projects} more projects</b> on this organization"
-      plan: the POS Nation Project Manager plans
+      plan: the Logic XL Project Manager plans
       current_plan_html: "Your current plan is <strong>%{name}</strong>."
       max_projects: "You can have up to %{max} projects."
       max_storage: "You can store up to %{max}."
@@ -1428,13 +1428,13 @@ en:
         configure_html: "Your plan supports custom branding and domain names. <a href='%{link}'>Configure your branding here</a>."
         not_available_html: "Your plan doesn't support <strong>custom branding</strong>. Upgrade to a higher account to get it."
     copies:
-      copy1_html: "Like the POS Nation Project Manager? Get more projects! <a href='%{link}'>Upgrade now</a> to support our development!"
+      copy1_html: "Like the Logic XL Project Manager? Get more projects! <a href='%{link}'>Upgrade now</a> to support our development!"
       copy2_html: "<a href='%{link}'>Upgrade now</a> to get more projects, storage and search across all projects."
       copy3_html: "<a href='%{link}'>Get more done</a> with a premium account! Extra storage, more projects."
       copy4_html: "<a href='%{link}'>Make work better</a> with a premium account: Search bar across all projects."
-      copy5_html: "<a href='%{link}'>Upgrade your the POS Nation Project Manager account now</a> and enjoy professional collaboration!"
+      copy5_html: "<a href='%{link}'>Upgrade your the Logic XL Project Manager account now</a> and enjoy professional collaboration!"
       copy6_html: "A search bar across all projects will save you hours. <a href='%{link}'>Upgrade now</a> to get it!"
-      copy7_html: "Your business matters! <a href='%{link}'>Get the best support</a> for the POS Nation Project Manager with our premium plans."
+      copy7_html: "Your business matters! <a href='%{link}'>Get the best support</a> for the Logic XL Project Manager with our premium plans."
 
   shared:
     confirm_email:
@@ -1442,7 +1442,7 @@ en:
       resend_email: Resend the instructions
       change_email: use a different e-mail address
     invite_contacts:
-      title: Invite your friends to the POS Nation Project Manager
+      title: Invite your friends to the Logic XL Project Manager
       find_more_contacts: Find more contacts
       note1: Your contacts will not be invited to your projects.
       note2: They will be able to create their own accounts.
@@ -1507,7 +1507,7 @@ en:
       settings: Settings
       help: "Help & Feedback"
     public_navigation:
-      home: the POS Nation Project Manager
+      home: the Logic XL Project Manager
       tour: Tour
       users: Our Users
       services: Services
@@ -1547,14 +1547,14 @@ en:
       started_watching: "You will now be notified of updates by email."
       stopped_watching: "You will no longer receive notifications for this item."
     upgrade_browser:
-      upgrade: You're using an outdated version of Internet Explorer. the POS Nation Project Manager may not work properly under this version.
+      upgrade: You're using an outdated version of Internet Explorer. the Logic XL Project Manager may not work properly under this version.
       ie: Upgrade to Internet Explorer 8
       or_install: or install
       chrome: "Chrome,"
       firefox: "Firefox"
       safari: "Safari"
     chrome_frame:
-      enhance_html: Enhance your the POS Nation Project Manager experience with Google Chrome Frame. Click <a href="%{link}" target=\"_blank\">here</a> to set it up.
+      enhance_html: Enhance your the Logic XL Project Manager experience with Google Chrome Frame. Click <a href="%{link}" target=\"_blank\">here</a> to set it up.
     instructions:
       subscribe_to_feeds: Subscribe to feeds...
       subscribe_to_calendars: Subscribe to calendars...
@@ -1570,11 +1570,11 @@ en:
       facebook: Facebook
       twitter: Twitter
       website: "Share it on your website,"
-      send_invites: Invite to the POS Nation Project Manager
+      send_invites: Invite to the Logic XL Project Manager
       sent_invites_to: "The invitation email will be sent to the following addresses:"
       refer_info: "Refer %{users} users on %{plan} accounts, get $%{credit} every month."
-      desc_1_html: "With our partner tools, you can get <strong>free months</strong> using the POS Nation Project Manager or make <strong>real money</strong> by referring others."
-      desc_2_html: "Bring new users to the POS Nation Project Manager, and get <strong>%{percent}% of the income</strong> your referred users generate, <strong>forever</strong>."
+      desc_1_html: "With our partner tools, you can get <strong>free months</strong> using the Logic XL Project Manager or make <strong>real money</strong> by referring others."
+      desc_2_html: "Bring new users to the Logic XL Project Manager, and get <strong>%{percent}% of the income</strong> your referred users generate, <strong>forever</strong>."
       option_1: "Option 1: Share this link"
       option_2: "Option 2: Invite your contacts by entering their email"
       option_3: "Option 3: Invite your contacts by importing contacts from a CSV file"
@@ -1589,14 +1589,14 @@ en:
       over_100: "Whenever you have over $100,"
       send_money: "and we will send you the money you've earned."
       get_in_touch: "get in touch with us"
-      ideas: "Some ideas to make the most out of the POS Nation Project Manager"
-      idea1: "Create a site about how to use the POS Nation Project Manager, with guides for beginners."
-      idea2: "Post a link to the POS Nation Project Manager on your blog and talk about how it helped you."
+      ideas: "Some ideas to make the most out of the Logic XL Project Manager"
+      idea1: "Create a site about how to use the Logic XL Project Manager, with guides for beginners."
+      idea2: "Post a link to the Logic XL Project Manager on your blog and talk about how it helped you."
       idea3: "Run an event about Project Collaboration and refer your attendees."
       idea4: "Simply email invitations to new users."
       learn_more: "Learn more..."
       use_tracking_code: "You must use a tracking code so we can know which users are coming from you."
-      tracking1: "When you refer users to the POS Nation Project Manager, they must sign up at a page with a special parameter."
+      tracking1: "When you refer users to the Logic XL Project Manager, they must sign up at a page with a special parameter."
       tracking2: "This parameter is unique for you, and it allows us to track your users."
       tracking3: "Once a user follows this link, they will be marked as coming from you."
       tracking4: "Even if they navigate away from the page and come later, we store this data in their session so when they sign up we still remember they came from you."
@@ -1605,13 +1605,13 @@ en:
       addresses: "addresses"
       sent_number_of_invites: "The invitation email will be sent to"
     notification:
-      new_signup: "A user signed up on the POS Nation Project Manager using your referral code!"
-      new_subscription: "A user upgraded his account on the POS Nation Project Manager using your referral code!"
-      accepted_subscription: "%{name} (%{email}) just signed up on the POS Nation Project Manager using your referral code."
-      upgraded_subscription: "%{name} (%{email}) just upgraded his account on the POS Nation Project Manager, and you are earning $%{price} in credit"
-      check_your_earnings: "Go check your earnings from referrals on the POS Nation Project Manager"
-      check_your_referrals: "Go check your referred users on the POS Nation Project Manager"
-      wait: "The transaction has been just processed, but may take a while to be reflected on your the POS Nation Project Manager Partner area"
+      new_signup: "A user signed up on the Logic XL Project Manager using your referral code!"
+      new_subscription: "A user upgraded his account on the Logic XL Project Manager using your referral code!"
+      accepted_subscription: "%{name} (%{email}) just signed up on the Logic XL Project Manager using your referral code."
+      upgraded_subscription: "%{name} (%{email}) just upgraded his account on the Logic XL Project Manager, and you are earning $%{price} in credit"
+      check_your_earnings: "Go check your earnings from referrals on the Logic XL Project Manager"
+      check_your_referrals: "Go check your referred users on the Logic XL Project Manager"
+      wait: "The transaction has been just processed, but may take a while to be reflected on your the Logic XL Project Manager Partner area"
   roles:
     observer: observer
     commenter: commenter
@@ -1632,48 +1632,48 @@ en:
       you_can_now_collaborate: "How can you get started? Post conversations or create some tasks on the project!"
     invitation:
       subject: "%{user} shared [%{project}] with you"
-      collaborate_with: "%{name} wants to collaborate with you on the POS Nation Project Manager:"
+      collaborate_with: "%{name} wants to collaborate with you on the Logic XL Project Manager:"
       you_have_been_invited_to: "You have been invited to the project %{project}"
       accept_the_invitation: Accept the invitation to start collaborating
       current_users: "Current users in this project:"
       plaintext_link: "If the above link doesn't work, copy and paste the following code into your browser bar: "
-      teambox_is_a_pm_platform: "the POS Nation Project Manager is a project management platform made for real-world collaboration."
+      teambox_is_a_pm_platform: "the Logic XL Project Manager is a project management platform made for real-world collaboration."
       plan_share_and_collaborate: "Plan, share and keep track of what's been done. Simple as it should be."
       report_abuse: "This email was sent to you at your contact's request. Please report any abuse."
-      subject_without_project: "%{name} invited you to the POS Nation Project Manager"
+      subject_without_project: "%{name} invited you to the Logic XL Project Manager"
     teamboxdata:
         hey: "Hey, %{user_name}!"
-        data_imported: "Your data has been successfully imported into the POS Nation Project Manager. To view details, please visit the following link:"
-        data_import_failed: "Your data could not be imported into the POS Nation Project Manager. Please check that the data you uploaded is valid. To try again, visit the following link:"
-        data_exported: "Your data has been exported from the POS Nation Project Manager, and is available as a download from the following link:"
-        data_export_failed: "Your data could not be exported from the POS Nation Project Manager. To try again, please visit the following link:"
+        data_imported: "Your data has been successfully imported into the Logic XL Project Manager. To view details, please visit the following link:"
+        data_import_failed: "Your data could not be imported into the Logic XL Project Manager. Please check that the data you uploaded is valid. To try again, visit the following link:"
+        data_exported: "Your data has been exported from the Logic XL Project Manager, and is available as a download from the following link:"
+        data_export_failed: "Your data could not be exported from the Logic XL Project Manager. To try again, please visit the following link:"
         exported: "Your data is ready for download"
         export_failed: "Your data could not be exported"
         imported: "Your data has been imported"
         import_failed: "Your data could not be imported"
     confirm:
-      subject: "Get started with the POS Nation Project Manager"
+      subject: "Get started with the Logic XL Project Manager"
       hey: "Hey, %{user_name}!"
-      follow_this_link: "In order to %{complete} for the POS Nation Project Manager, we need you to log in by clicking here:"
+      follow_this_link: "In order to %{complete} for the Logic XL Project Manager, we need you to log in by clicking here:"
       complete: complete your signup
-      log_in: "Log into the POS Nation Project Manager now!"
+      log_in: "Log into the Logic XL Project Manager now!"
       plaintext_link: "If this doesn't work, copy and paste the following link in your browser's bar:"
-      report_abuse: "You received this message because you signed up for a the POS Nation Project Manager account with %{email}"
+      report_abuse: "You received this message because you signed up for a the Logic XL Project Manager account with %{email}"
       problems_html: "If you have any problems, please contact us at %{support}"
     reset_password:
       subject: "Your password has successfully been reset"
       hey: "Hey, %{user_name}!"
-      follow_this_link: "In order to %{new_password} for the POS Nation Project Manager, we need you to log in with the following link:"
+      follow_this_link: "In order to %{new_password} for the Logic XL Project Manager, we need you to log in with the following link:"
       new_password: set a new password
-      log_in: "Log into the POS Nation Project Manager now!"
+      log_in: "Log into the Logic XL Project Manager now!"
       plaintext_link: "If this doesn't work, copy and paste the following link in your browser's bar:"
-      report_abuse: "You received this message because you signed up for a the POS Nation Project Manager account with %{email}"
+      report_abuse: "You received this message because you signed up for a the Logic XL Project Manager account with %{email}"
       problems_html: "If you have any problems, please contact us at %{support}"
       successfully_reset: "Your password has been successfully reset." 
     forgot_password:
-      subject: "Password retrieval for the POS Nation Project Manager"
+      subject: "Password retrieval for the Logic XL Project Manager"
     notify:
-      project: "the POS Nation Project Manager Project:"
+      project: "the Logic XL Project Manager Project:"
       view_this_conversation_online_html: "You can %{conversation} to answer and attach files."
       view_this_task_online_html: "You can %{link} to comment and attach files."
       view_conversation_online: view this conversation online
@@ -1721,21 +1721,21 @@ en:
       file: "File:"
     public_download:
       upload:
-        subject: "%{user} wants to share a file with you on the POS Nation Project Manager"
+        subject: "%{user} wants to share a file with you on the Logic XL Project Manager"
         user_sent_you_a_link: "%{user} sent you a link to download %{name}"
         go_to_download_page: Download this file
       folder:
-        subject: "%{user} wants to share a folder with you on the POS Nation Project Manager"
+        subject: "%{user} wants to share a folder with you on the Logic XL Project Manager"
         user_sent_you_a_link: "%{user} sent you a link to download a files from %{name}"
         go_to_download_page: Download files from this folder
       plaintext_link: "If the above link doesn't work, copy and paste the following url into your browser bar: "
     bounce:
-      subject: "Error sending email to the POS Nation Project Manager"
-      user_not_found_error: "This email address is not associated with any the POS Nation Project Manager account."
-      not_project_member_error: "You are not a member of the specified the POS Nation Project Manager project."
-      project_not_found_error: "There is no project on the POS Nation Project Manager corresponding to this email address."
+      subject: "Error sending email to the Logic XL Project Manager"
+      user_not_found_error: "This email address is not associated with any the Logic XL Project Manager account."
+      not_project_member_error: "You are not a member of the specified the Logic XL Project Manager project."
+      project_not_found_error: "There is no project on the Logic XL Project Manager corresponding to this email address."
       target_not_found_error: "We couldn't find the item where you are trying to post your comment."
-      not_delivered: "Your email couldn't be processed by the POS Nation Project Manager. View our documentation to learn which types of email we accept: %{link}"
+      not_delivered: "Your email couldn't be processed by the Logic XL Project Manager. View our documentation to learn which types of email we accept: %{link}"
     digest:
       title:
         weekly: "[%{project}] Weekly digest"
@@ -2078,15 +2078,15 @@ en:
     this_account_will_be_linked_to: "This account will be linked with %{provider}"
     account_linked: "Your account has been linked."
     app_unlinked: "App unlinked"
-    not_linked: "That service is not linked to your the POS Nation Project Manager account."
+    not_linked: "That service is not linked to your the Logic XL Project Manager account."
     already_linked_to_your_account: "This service is already linked to your account. You can log in with it."
     already_taken_by_other_account: "This service is already linked to another account on the system. Try logging out and logging in with it. To link it to a different account, you'll need to unlink it from the current one."
     auth_status: OAuth Auth
     auth_status_linked: Linked with the provider
     auth_status_link: Link with your account
     logged_in: Logged in successfully
-    your_account_is_linked_html: "Your %{provider} profile is <strong>linked</strong> to the POS Nation Project Manager."
-    your_account_is_not_linked_html: "Your %{provider} profile is <strong>not linked</strong> to the POS Nation Project Manager."
+    your_account_is_linked_html: "Your %{provider} profile is <strong>linked</strong> to the Logic XL Project Manager."
+    your_account_is_not_linked_html: "Your %{provider} profile is <strong>not linked</strong> to the Logic XL Project Manager."
     link_account: Link account.
     unlink_account: Unlink account.
     sign_up_conflict: We already have an account on the system with same username and/or email. If you already have an account you should login to your account instead of creating a new one.
@@ -2104,7 +2104,7 @@ en:
       write_projects_description: Create conversations, tasks, task lists, pages, etc.
     
   google_docs:
-    authorization_required: In order to use Google Docs you must first authorize the POS Nation Project Manager to use your Google account.
+    authorization_required: In order to use Google Docs you must first authorize the Logic XL Project Manager to use your Google account.
     authorize_link: Authorize Google Docs
     create_new: Create a New Blank Document
     create: Create
@@ -2140,9 +2140,9 @@ en:
   friends:
     index:
       pending_invitation: Invitations pending...
-      find_more_contacts: Find more contacts on the POS Nation Project Manager
+      find_more_contacts: Find more contacts on the Logic XL Project Manager
     pending_invitation:
-      teambox: "was invited to join the POS Nation Project Manager %{on} through %{provider}"
+      teambox: "was invited to join the Logic XL Project Manager %{on} through %{provider}"
       project: "was invited to join the project '%{project}' through %{provider}"
       delivery_fail: "we tried to deliver the invitation through %{provider} but an error occurred. You can manually invite this person by sending the sign up link:"
     project:
@@ -2160,9 +2160,9 @@ en:
       loading: Loading your friends...
     invitations:
       twitter:
-        signup: "Join my the POS Nation Project Manager so we can share projects: %{link}"
+        signup: "Join my the Logic XL Project Manager so we can share projects: %{link}"
         project: "Join my '%{project}' project so we can share tasks: %{link}"
       facebook:
-        signup: "Join my the POS Nation Project Manager so we can share projects and tasks online. Follow the link below this post on Facebook."
-        project: "Join my '%{project}' project on the POS Nation Project Manager so we can share tasks online. Follow the link below this post on Facebook"
+        signup: "Join my the Logic XL Project Manager so we can share projects and tasks online. Follow the link below this post on Facebook."
+        project: "Join my '%{project}' project on the Logic XL Project Manager so we can share tasks online. Follow the link below this post on Facebook"
 

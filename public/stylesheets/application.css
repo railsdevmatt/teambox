@@ -4584,6 +4584,8 @@ div.user_navigation ul a:hover {
     float: left;
     text-align: right;
     width: 85px;
+    color: white;
+    font-size: 13px;
 }
 
 .si-input-bx {
