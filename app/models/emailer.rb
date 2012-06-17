@@ -43,7 +43,7 @@ class Emailer < ActionMailer::Base
       from_address(reply_identifier, user.try(:name))
     end
 
-    def from_address(recipient = "no-reply", name = "POS Nation Project Manager")
+    def from_address(recipient = "no-reply", name = "Logic XL Project Manager")
       domain = Teambox.config.smtp_settings[:domain]
       address = "#{recipient}@#{domain}"
 
