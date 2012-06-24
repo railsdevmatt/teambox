@@ -1,17 +1,19 @@
-%span{:class => "phone"}
-  Welcome
-  = link_to current_user.login, current_user
-.cl
-#navigations
-  %ul.shop
-    / %li= link_to current_user.login, current_user
-    %li.recent=link_to 'Recent', root_path
-    %li.testimonials=link_to 'Testimonials', projects_organization_path(Organization.first)
-    %li.systems= link_to 'Systems', account_settings_path
-    %li.login= link_to 'Logout', logout_path
-    
-  / - if current_user.invitations.pending_projects.count > 0
-  /   %li= link_to_unless_current t('.project_invitations', :count => current_user.invitations.count),
-  /     user_invitations_path(:user_id => current_user.id)
-  / %li= link_to t('.logout'), logout_path
+#header
+  = link_to image_tag('logic-xl-logo.png', :alt => 'LogicXL Project Manager'), projects_path, :class => 'lx-logo'
+  %span{:class => "phone"}
+    Welcome
+    = link_to current_user.login, current_user
+  .cl
+  #navigations
+    %ul.shop
+      / %li= link_to current_user.login, current_user
+      %li.recent=link_to 'Recent', root_path
+      %li.testimonials=link_to 'Projects', projects_organization_path(Organization.first)
+      %li.systems= link_to 'Settings', account_settings_path
+      %li.login= link_to 'Logout', logout_path
+      
+    / - if current_user.invitations.pending_projects.count > 0
+    /   %li= link_to_unless_current t('.project_invitations', :count => current_user.invitations.count),
+    /     user_invitations_path(:user_id => current_user.id)
+    / %li= link_to t('.logout'), logout_path
 

@@ -4210,6 +4210,13 @@ div.column_wrap h2 {
     position: relative;
 }
 
+#header {
+  background: url("/images/logic-xl-nav-bar.png") no-repeat scroll left -50px 
+  transparent;
+  height: 170px;
+  padding-top: 25px;
+}
+
 #logo {
     float: left;
     height: 120px;
@@ -4699,10 +4706,55 @@ h2 {
   padding: 0px;
   width: 100%;
 }
-.lx-logo {
-    float: left;
-    margin: 18px auto 0;
+
+#body-content {
+margin-left: auto;
+margin-right: auto;
+width: 1024px;
+margin-top: 0;
 }
+
+.lx-logo {
+  height: 36px;
+  margin-left: 103px;
+  width: 165px;
+  float: left;
+}
+
+#navigations{
+  position: relative;
+top: 20px;
+left: 99px;
+}
+
+#navigations a{
+  color: #fff;
+}
+
+.recent{
+position: absolute;
+top: 28px;
+font-size: 20px;
+list-style: none;
+}
+
+.testimonials{
+position: absolute;
+top: 28px;
+font-size: 20px;
+left: 203px;
+list-style: none;
+
+}
+
+.systems{
+position: absolute;
+top: 28px;
+font-size: 20px;
+left: 406px;
+list-style: none;
+}
+
 #body-content {
     margin-left: auto;
     margin-right: auto;
@@ -4727,6 +4779,14 @@ h2 {
 }
 .login {
     margin: 0 0 10px 40px;
+}
+
+.shop .login{
+position: absolute;
+top: 28px;
+font-size: 20px;
+left: 587px;
+list-style: none;
 }
 .password {
     margin: 0 0 10px 40px;
