@@ -4765,7 +4765,7 @@ list-style: none;
 }
 .login-box {
     background: url("/images/lx-login-top-bar.png") no-repeat scroll center 47px transparent;
-    margin: 100px auto 0;
+    margin: 22px auto 0;
     width: 645px;
 }
 .login-box h2 {
