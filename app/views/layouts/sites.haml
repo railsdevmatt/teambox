@@ -11,8 +11,9 @@
     #shell
       #top-bar
       #body-content
-        = link_to image_tag('lx-logo.png', :alt => 'LogicXL Project Manager', :class => 'lx-logo'), projects_path
-      - show_flash
+        #header
+          = link_to image_tag('logic-xl-logo.png', :alt => 'LogicXL Project Manager', :class => 'lx-logo'), projects_path
+        - show_flash
       #container.container{:style => "margin-left: 196px; min-height: 650px;width: auto;min-height:556px;"}
         .wrapper
           .view_sidebar
