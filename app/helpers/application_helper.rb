@@ -4,6 +4,11 @@ module ApplicationHelper
   def content_for(*args)
     super unless args.first.to_sym == :column and mobile?
   end
+
+  def login_pasge?
+    logger.debug { "-----------#{params.inspect}" }
+    params[:controller] == 'sessions' && params[:action] == 'new'
+  end
   
   def logo_image
     logo = @organization ? @organization.logo(:top) : "header_logo_black.png"

@@ -2112,7 +2112,7 @@ p.view_for_all {
     margin: 0 5px; }
   .filters select {
     margin: 0 5px;
-    max-width: 150px; }
+    max-width: 81px; }
   .filters a.closeThis {
     float: right;
     color: #555555;
@@ -4577,22 +4577,22 @@ div.user_navigation ul a:hover {
     width: 300px;
 }
 
-#login input[type="text"], #login input[type="password"]{
-	background: url("/images/pos-sign-in-img.png") no-repeat scroll left -236px transparent;
-	    border: medium none;
-	    float: right;
-	    height: 20px;
-	    margin-top: -7px;
-	    padding: 4px 5px 6px 7px;
-	    width: 189px;
-}
-
 .si-input-bx span {
     float: left;
     text-align: right;
     width: 85px;
     color: white;
     font-size: 13px;
+}
+
+.login-label {
+  color: white;
+  float: left;
+  font-size: 13px;
+  padding: 15px 10px;
+  text-align: right;
+  width: 100px;
+  font-family: helvetica neue;
 }
 
 .si-input-bx {
@@ -4715,10 +4715,8 @@ margin-top: 0;
 }
 
 .lx-logo {
-  height: 36px;
-  margin-left: 103px;
-  width: 165px;
-  float: left;
+float: left;
+margin: 18px auto 0;
 }
 
 #navigations{
@@ -4774,9 +4772,19 @@ list-style: none;
     font-size: 20px;
     height: 32px;
     margin: 0;
+    font-weight: bold;
     padding: 15px 0 0 54px;
     text-transform: none;
 }
+
+.login-input {
+  background: url("/images/lx-login-input.png") no-repeat scroll center center transparent;
+  border: medium none;
+  height: 43px;
+  padding: 0 10px;
+  width: 238px;
+}
+
 .login {
     margin: 0 0 10px 40px;
 }
