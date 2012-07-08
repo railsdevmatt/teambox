@@ -4,4 +4,5 @@
 .password.text_field.si-input-bx
   %label.login-label Password
   = password_field_tag 'password', nil, :tabindex => 201, :class => 'focus login-input'
-
+.forgot
+  %a{:href => forgot_password_path, :tabindex => "203"} Forgot your password?
