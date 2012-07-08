@@ -1,5 +1,5 @@
 #header
-  = link_to image_tag('logic-xl-logo.png', :alt => 'LogicXL Project Manager'), projects_path, :class => 'lx-logo'
+  = link_to image_tag('logic-xl-logo.png', :alt => 'LogicXL Project Manager'), projects_path, :class => 'lx-logo2'
   %span{:class => "phone"}
     Welcome
     = link_to current_user.login, current_user
@@ -8,7 +8,7 @@
     %ul.shop
       / %li= link_to current_user.login, current_user
       %li.recent=link_to 'Recent', root_path
-      %li.testimonials=link_to 'Projects', projects_organization_path(Organization.first)
+      %li.testimonials=link_to 'Projects', project_task_lists_path(Project.last)
       %li.systems= link_to 'Settings', account_settings_path
       %li.login= link_to 'Logout', logout_path
       

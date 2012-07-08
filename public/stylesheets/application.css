@@ -4707,6 +4707,12 @@ float: left;
 margin: 18px auto 0;
 }
 
+.lx-logo2 {
+float: left;
+margin: 0px auto 0;
+margin-left: 95px;
+}
+
 #navigations{
   position: relative;
 top: 20px;
@@ -4720,14 +4726,14 @@ left: 99px;
 .recent{
 position: absolute;
 top: 28px;
-font-size: 20px;
+font-size: 13px;
 list-style: none;
 }
 
 .testimonials{
 position: absolute;
 top: 28px;
-font-size: 20px;
+font-size: 13px;
 left: 203px;
 list-style: none;
 
@@ -4736,7 +4742,7 @@ list-style: none;
 .systems{
 position: absolute;
 top: 28px;
-font-size: 20px;
+font-size: 13px;
 left: 406px;
 list-style: none;
 }
@@ -4744,7 +4750,7 @@ list-style: none;
 #body-content {
     margin-left: auto;
     margin-right: auto;
-    width: 900px;
+    width: 1024px;
 }
 #wide {
   height: 500px;
@@ -4780,7 +4786,7 @@ list-style: none;
 .shop .login{
 position: absolute;
 top: 28px;
-font-size: 20px;
+font-size: 13px;
 left: 587px;
 list-style: none;
 }
